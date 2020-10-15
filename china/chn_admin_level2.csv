@@ -1,0 +1,362 @@
+OBJECTID,Admin_type,Adm2_CAP,ADM2_EN,ADM2_ZH,ADM2_PCODE,ADM1_EN,ADM1_ZH,ADM1_PCODE,ADM0_EN,ADM0_ZH,ADM0_PCODE
+"1",Prefecture-level city,Karamay District,Karamay,克拉玛依市,CN065100,Xinjiang Uygur Autonomous Region,新疆维吾尔自治区,CN065,China,中国,CN
+"2",Autonomous prefecture,Changji (Sanji) City,Changji Hui Autonomous Prefecture,昌吉回族自治州,CN065060,Xinjiang Uygur Autonomous Region,新疆维吾尔自治区,CN065,China,中国,CN
+"3",Sub-prefecture-level city,Xincheng Subdistrict,Shihezi,石河子市[1],CN065130,Xinjiang Uygur Autonomous Region,新疆维吾尔自治区,CN065,China,中国,CN
+"4",League,Xilinhot City,Xilingol League,锡林郭勒盟,CN015120,Inner Mongolia Autonomous Region,内蒙古自治区,CN015,China,中国,CN
+"5",Prefecture-level city,Pingshan District,Benxi,本溪市,CN021020,Liaoning Province,辽宁省,CN021,China,中国,CN
+"6",Prefecture-level city,Xiongguan District,Jiayuguan,嘉峪关市,CN062040,Gansu province,甘肃省,CN062,China,中国,CN
+"7",Prefecture-level city,Laicheng District,Laiwu,莱芜市,CN037070,Shandong Province,山东省,CN037,China,中国,CN
+"8",Forestry district,Songbai Town,Shennongjia Forestry District,神农架林区[3],CN042080,Hubei Province,湖北省,CN042,China,中国,CN
+"9",Sub-prefecture-level city,Jingling Subdistrict,Tianmen,天门市[1],CN042110,Hubei Province,湖北省,CN042,China,中国,CN
+"10",Prefecture-level city,Echeng District,Ezhou,鄂州市,CN042020,Hubei Province,湖北省,CN042,China,中国,CN
+"11",Sub-prefecture-level city,Yunlin Subdistrict,Qianjiang,潜江市[1],CN042070,Hubei Province,湖北省,CN042,China,中国,CN
+"12",Sub-prefecture-level city,Shazui Subdistrict,Xiantao,仙桃市[1],CN042150,Hubei Province,湖北省,CN042,China,中国,CN
+"13",Prefecture-level city,Anyuan District,Pingxiang,萍乡市,CN036070,Jiangxi Province,江西省,CN036,China,中国,CN
+"14",,,Taiwan province,台湾省,CN071010,Taiwan Province,台湾省,CN071,China,中国,CN
+"15",Prefecture-level city,Nancheng District,Dongguan,东莞市,CN044020,Guangdong Province,广东省,CN044,China,中国,CN
+"16",Prefecture-level city,Dong District,Zhongshan,中山市,CN044200,Guangdong Province,广东省,CN044,China,中国,CN
+"17",Prefecture-level city,Xiangzhou District,Zhuhai,珠海市,CN044210,Guangdong Province,广东省,CN044,China,中国,CN
+"18",Prefecture-level city,Haicheng District,Beihai,北海市,CN045020,Guangxi Zhuang Autonomous Region,广西壮族自治区,CN045,China,中国,CN
+"19",Special Administrative Region,,Hong Kong Special Administrative Region,香港,CN081010,Hong Kong Special Administrative Region,香港特别行政区,CN081,China,中国,CN
+"20",Prefecture-level city,Dinghai District,Zhoushan,舟山市,CN033110,Zhejiang Province,浙江省,CN033,China,中国,CN
+"21",Autonomous prefecture,Atux City,Kizilsu Kirgiz Autonomous Prefecture,克孜勒苏柯尔克孜自治州,CN065120,Xinjiang Uygur Autonomous Region,新疆维吾尔自治区,CN065,China,中国,CN
+"22",Prefecture,Kashi (Kaxgar) City,Kashi Prefecture,喀什地区,CN065110,Xinjiang Uygur Autonomous Region,新疆维吾尔自治区,CN065,China,中国,CN
+"23",Prefecture,Aksu City,Aksu Prefecture,阿克苏地区,CN065020,Xinjiang Uygur Autonomous Region,新疆维吾尔自治区,CN065,China,中国,CN
+"24",Prefecture,Hotan City,Hotan Prefecture,和田地区,CN065080,Xinjiang Uygur Autonomous Region,新疆维吾尔自治区,CN065,China,中国,CN
+"25",Prefecture,"Sênggêzangbo Town, Gar County",Ngari Prefecture,阿里地区,CN054040,Tibet Autonomous Region,西藏自治区,CN054,China,中国,CN
+"26",Prefecture-level city,Samzhubzê District,Xigazê,日喀则市,CN054070,Tibet Autonomous Region,西藏自治区,CN054,China,中国,CN
+"27",Prefecture,"Nagqu Town, Nagqu County",Nagqu Prefecture,那曲地区,CN054030,Tibet Autonomous Region,西藏自治区,CN054,China,中国,CN
+"28",Autonomous prefecture,Yushu City,Yushu Tibetan Autonomous Prefecture,玉树藏族自治州,CN063080,Qinghai Province,青海省,CN063,China,中国,CN
+"29",Autonomous prefecture,Shangri-La City,Dêqên Tibetan Autonomous Prefecture,迪庆藏族自治州,CN053030,Yunnan Province,云南省,CN053,China,中国,CN
+"30",Autonomous prefecture,"Liuku Town, Lushui County",Nujiang Lisu Autonomous Prefecture,怒江傈僳族自治州,CN053100,Yunnan Province,云南省,CN053,China,中国,CN
+"31",Autonomous prefecture,Dali City,Dali Bai Autonomous Prefecture,大理白族自治州,CN053040,Yunnan Province,云南省,CN053,China,中国,CN
+"32",Autonomous prefecture,Mang City,Dehong Dai and Jingpo Autonomous Prefecture,德宏傣族景颇族自治州,CN053050,Yunnan Province,云南省,CN053,China,中国,CN
+"33",Prefecture-level city,Longyang District,Baoshan,保山市,CN053010,Yunnan Province,云南省,CN053,China,中国,CN
+"34",Prefecture-level city,Linxiang District,Lincang,临沧市,CN053090,Yunnan Province,云南省,CN053,China,中国,CN
+"35",Prefecture-level city,Simao District,Pu'er,普洱市,CN053110,Yunnan Province,云南省,CN053,China,中国,CN
+"36",Autonomous prefecture,Jinghong City,Xishuangbanna Dai Autonomous Prefecture,西双版纳傣族自治州,CN053140,Yunnan Province,云南省,CN053,China,中国,CN
+"37",Prefecture-level city,Chingoin District,Lhasa,拉萨市,CN054010,Tibet Autonomous Region,西藏自治区,CN054,China,中国,CN
+"38",Prefecture-level city,"Zêtang Town, Nêdong County",Lhoka,山南市,CN054020,Tibet Autonomous Region,西藏自治区,CN054,China,中国,CN
+"39",Prefecture-level city,Bayi District,Nyingchi,林芝市,CN054050,Tibet Autonomous Region,西藏自治区,CN054,China,中国,CN
+"40",Prefecture-level city,Karub District,Qamdo,昌都市,CN054060,Tibet Autonomous Region,西藏自治区,CN054,China,中国,CN
+"41",Prefecture-level city,Gucheng District,Lijiang,丽江市,CN053080,Yunnan Province,云南省,CN053,China,中国,CN
+"42",Prefecture-level city,Dong District,Panzhihua,攀枝花市,CN051160,Sichuan Province,四川省,CN051,China,中国,CN
+"43",Autonomous prefecture,Xichang City,Liangshan Yi Autonomous Prefecture,凉山彝族自治州,CN051090,Sichuan Province,四川省,CN051,China,中国,CN
+"44",Autonomous prefecture,Chuxiong City,Chuxiong Yi Autonomous Prefecture,楚雄彝族自治州,CN053020,Yunnan Province,云南省,CN053,China,中国,CN
+"45",Autonomous prefecture,Mengzi City,Honghe Hani and Yi Autonomous Prefecture,红河哈尼族彝族自治州,CN053060,Yunnan Province,云南省,CN053,China,中国,CN
+"46",Autonomous prefecture,Wenshan City,Wenshan Zhuang and Miao Autonomous Prefecture,文山壮族苗族自治州,CN053130,Yunnan Province,云南省,CN053,China,中国,CN
+"47",Prefecture-level city,Youjiang District,Baise,百色市,CN045010,Guangxi Zhuang Autonomous Region,广西壮族自治区,CN045,China,中国,CN
+"48",Prefecture-level city,Jiangzhou District,Chongzuo,崇左市,CN045030,Guangxi Zhuang Autonomous Region,广西壮族自治区,CN045,China,中国,CN
+"49",Prefecture-level city,Gangkou District,Fangchenggang,防城港市,CN045040,Guangxi Zhuang Autonomous Region,广西壮族自治区,CN045,China,中国,CN
+"50",Prefecture-level city,Qingxiu District,NanNing,南宁市,CN045110,Guangxi Zhuang Autonomous Region,广西壮族自治区,CN045,China,中国,CN
+"51",Prefecture-level city,Qinbei District,Qinzhou,钦州市,CN045120,Guangxi Zhuang Autonomous Region,广西壮族自治区,CN045,China,中国,CN
+"52",Prefecture-level city,Yuzhou District,Yulin,玉林市,CN045140,Guangxi Zhuang Autonomous Region,广西壮族自治区,CN045,China,中国,CN
+"53",Prefecture-level city,Chikan District,Zhanjiang,湛江市,CN044180,Guangdong Province,广东省,CN044,China,中国,CN
+"54",Prefecture-level city,Maonan District,Maoming,茂名市,CN044090,Guangdong Province,广东省,CN044,China,中国,CN
+"55",Prefecture-level city,Jiangcheng District,Yangjiang,阳江市,CN044160,Guangdong Province,广东省,CN044,China,中国,CN
+"56",Prefecture-level city,Pengjiang District,Jiangmen,江门市,CN044070,Guangdong Province,广东省,CN044,China,中国,CN
+"57",Prefecture-level city,Yuexiu District,Guangzhou,广州市,CN044040,Guangdong Province,广东省,CN044,China,中国,CN
+"58",Prefecture-level city,Qingcheng District,Qingyuan,清远市,CN044110,Guangdong Province,广东省,CN044,China,中国,CN
+"59",Prefecture-level city,Duanzhou District,Zhaoqing,肇庆市,CN044190,Guangdong Province,广东省,CN044,China,中国,CN
+"60",Prefecture-level city,Changzhou District,Wuzhou,梧州市,CN045130,Guangxi Zhuang Autonomous Region,广西壮族自治区,CN045,China,中国,CN
+"61",Prefecture-level city,Babu District,Hezhou,贺州市,CN045080,Guangxi Zhuang Autonomous Region,广西壮族自治区,CN045,China,中国,CN
+"62",Prefecture-level city,Lingui District,Guilin,桂林市,CN045060,Guangxi Zhuang Autonomous Region,广西壮族自治区,CN045,China,中国,CN
+"63",Prefecture-level city,Liubei District,Liuzhou,柳州市,CN045100,Guangxi Zhuang Autonomous Region,广西壮族自治区,CN045,China,中国,CN
+"64",Prefecture-level city,Jinchengjiang District,Hechi,河池市,CN045070,Guangxi Zhuang Autonomous Region,广西壮族自治区,CN045,China,中国,CN
+"65",Autonomous prefecture,Kaili City,Qiandongnan Miao and Dong Autonomous Prefecture,黔东南苗族侗族自治州,CN052050,Guizhou Province,贵州省,CN052,China,中国,CN
+"66",Prefecture-level city,Guanshanhu District,Guiyang,贵阳市,CN052030,Guizhou Province,贵州省,CN052,China,中国,CN
+"67",Prefecture-level city,Xixiu District,Anshun,安顺市,CN052010,Guizhou Province,贵州省,CN052,China,中国,CN
+"68",Autonomous prefecture,Xingyi City,Qianxinan Buyi and Miao Autonomous Prefecture,黔西南布依族苗族自治州,CN052070,Guizhou Province,贵州省,CN052,China,中国,CN
+"69",Prefecture-level city,Qilin District,Qujing,曲靖市,CN053120,Yunnan Province,云南省,CN053,China,中国,CN
+"70",Prefecture-level city,Zhongshan District,Liupanshui,六盘水市,CN052040,Guizhou Province,贵州省,CN052,China,中国,CN
+"71",Prefecture-level city,Qixingguan District,Bijie,毕节市,CN052020,Guizhou Province,贵州省,CN052,China,中国,CN
+"72",Prefecture-level city,Zhaoyang District,Zhaotong,昭通市,CN053160,Yunnan Province,云南省,CN053,China,中国,CN
+"73",Prefecture-level city,Cuiping District,Yibin,宜宾市,CN051190,Sichuan Province,四川省,CN051,China,中国,CN
+"74",Prefecture-level city,Shizhong District,Leshan,乐山市,CN051080,Sichuan Province,四川省,CN051,China,中国,CN
+"75",Prefecture-level city,Ziliujing District,Zigong,自贡市,CN051200,Sichuan Province,四川省,CN051,China,中国,CN
+"76",Prefecture-level city,Shizhong District,Neijiang,内江市,CN051140,Sichuan Province,四川省,CN051,China,中国,CN
+"77",Prefecture-level city,Huichuan District,Zunyi,遵义市,CN052090,Guizhou Province,贵州省,CN052,China,中国,CN
+"78",Prefecture-level city,Tongchuan District,Dazhou,达州市,CN051030,Sichuan Province,四川省,CN051,China,中国,CN
+"79",Prefecture-level city,Chuanshan District,Suining,遂宁市,CN051170,Sichuan Province,四川省,CN051,China,中国,CN
+"80",Prefecture-level city,Guang'an District,Guang'an,广安市,CN051060,Sichuan Province,四川省,CN051,China,中国,CN
+"81",Prefecture-level city,Jiangyang District,Luzhou,泸州市,CN051100,Sichuan Province,四川省,CN051,China,中国,CN
+"82",Prefecture-level city,Yanjiang District,Ziyang,资阳市,CN051210,Sichuan Province,四川省,CN051,China,中国,CN
+"83",Prefecture-level city,Yucheng District,Ya'an,雅安市,CN051180,Sichuan Province,四川省,CN051,China,中国,CN
+"84",Prefecture-level city,Dongpo District,Meishan,眉山市,CN051110,Sichuan Province,四川省,CN051,China,中国,CN
+"85",Autonomous prefecture,Kangding City,Garzê Tibetan Autonomous Prefecture,甘孜藏族自治州,CN051050,Sichuan Province,四川省,CN051,China,中国,CN
+"86",Autonomous prefecture,"Dawu Town, Maqên County",Golog Tibetan Autonomous Prefecture,果洛藏族自治州,CN063010,Qinghai Province,青海省,CN063,China,中国,CN
+"87",Autonomous prefecture,"Qabqa Town, Gonghe County",Hainan Tibetan Autonomous Prefecture,海南藏族自治州,CN063040,Qinghai Province,青海省,CN063,China,中国,CN
+"88",Autonomous prefecture,"Rongwo Town, Tongren County",Huangnan Tibetan Autonomous Prefecture,黄南藏族自治州,CN063060,Qinghai Province,青海省,CN063,China,中国,CN
+"89",Autonomous prefecture,Hezuo City,Gannan Tibetan Autonomous Prefecture,甘南藏族自治州,CN062030,Gansu province,甘肃省,CN062,China,中国,CN
+"90",Prefecture-level city,Wudu District,Longnan,陇南市,CN062090,Gansu province,甘肃省,CN062,China,中国,CN
+"91",Prefecture-level city,Qinzhou District,Tianshui,天水市,CN062120,Gansu province,甘肃省,CN062,China,中国,CN
+"92",Prefecture-level city,Anding District,Dingxi,定西市,CN062020,Gansu province,甘肃省,CN062,China,中国,CN
+"93",Autonomous prefecture,Linxia City,Linxia Hui Autonomous Prefecture,临夏回族自治州,CN062080,Gansu province,甘肃省,CN062,China,中国,CN
+"94",Prefecture-level city,Chengzhong District,Xining,西宁市,CN063070,Qinghai Province,青海省,CN063,China,中国,CN
+"95",Prefecture-level city,Ledu District,Haidong,海东市,CN063030,Qinghai Province,青海省,CN063,China,中国,CN
+"96",Autonomous prefecture,"Sanjiaocheng Town, Haiyan County",Haibei Tibetan Autonomous Prefecture,海北藏族自治州,CN063020,Qinghai Province,青海省,CN063,China,中国,CN
+"97",Prefecture-level city,Jinchuan District,Jinchang,金昌市,CN062050,Gansu province,甘肃省,CN062,China,中国,CN
+"98",Prefecture-level city,Suzhou District,Jiuquan,酒泉市,CN062060,Gansu province,甘肃省,CN062,China,中国,CN
+"99",Autonomous prefecture,Delingha,Haixi Mongolian Autonomous Prefecture,海西蒙古族自治州,CN063050,Qinghai Province,青海省,CN063,China,中国,CN
+"100",Autonomous prefecture,Korla City,Bayingolin Mongolia Autonomous Prefecture,巴音郭楞蒙古自治州,CN065040,Xinjiang Uygur Autonomous Region,新疆维吾尔自治区,CN065,China,中国,CN
+"101",Prefecture-level city,Kumul City,Hami,哈密市,CN065070,Xinjiang Uygur Autonomous Region,新疆维吾尔自治区,CN065,China,中国,CN
+"102",Prefecture-level city,Gaochang District,Turpan,吐鲁番市,CN065150,Xinjiang Uygur Autonomous Region,新疆维吾尔自治区,CN065,China,中国,CN
+"103",Prefecture-level city,Tianshan District,Ürümqi,乌鲁木齐市,CN065010,Xinjiang Uygur Autonomous Region,新疆维吾尔自治区,CN065,China,中国,CN
+"104",Prefecture,Altay City,Altay Prefecture,阿勒泰地区,CN065030,Xinjiang Uygur Autonomous Region,新疆维吾尔自治区,CN065,China,中国,CN
+"105",Autonomous prefecture,Bole (Börtala) City,Bortala Mongol Autonomous Prefecture,博尔塔拉蒙古自治州,CN065050,Xinjiang Uygur Autonomous Region,新疆维吾尔自治区,CN065,China,中国,CN
+"106",Sub-province-level prefecture,Yining (Ĝulja) City,Ili Kazak Autonomous Prefecture,伊犁哈萨克自治州[5],CN065090,Xinjiang Uygur Autonomous Region,新疆维吾尔自治区,CN065,China,中国,CN
+"107",League,"Bayanhot Elute Subdistrict, Alxa Left B",Alxa League,阿拉善盟,CN015010,Inner Mongolia Autonomous Region,内蒙古自治区,CN015,China,中国,CN
+"108",Prefecture-level city,Liangzhou District,Wuwei,武威市,CN062130,Gansu province,甘肃省,CN062,China,中国,CN
+"109",Prefecture-level city,Chengguan District,Lanzhou,兰州市,CN062070,Gansu province,甘肃省,CN062,China,中国,CN
+"110",Prefecture-level city,Shapotou District,Zhongwei,中卫市,CN064050,Ningxia Hui Autonomous Region,宁夏回族自治区,CN064,China,中国,CN
+"111",Prefecture-level city,Jinfeng District,Yinchuan,银川市,CN064040,Ningxia Hui Autonomous Region,宁夏回族自治区,CN064,China,中国,CN
+"112",Prefecture-level city,Dawukou District,Shizuishan,石嘴山市,CN064020,Ningxia Hui Autonomous Region,宁夏回族自治区,CN064,China,中国,CN
+"113",Prefecture-level city,Haibowan District,Wuhai,乌海市,CN015110,Inner Mongolia Autonomous Region,内蒙古自治区,CN015,China,中国,CN
+"114",Prefecture-level city,Dongsheng District,Ordos,鄂尔多斯市,CN015080,Inner Mongolia Autonomous Region,内蒙古自治区,CN015,China,中国,CN
+"115",Prefecture-level city,Linhe District,Bayannur,巴彦淖尔市,CN015030,Inner Mongolia Autonomous Region,内蒙古自治区,CN015,China,中国,CN
+"116",Prefecture-level city,Hondlon District,Baotou,包头市,CN015020,Inner Mongolia Autonomous Region,内蒙古自治区,CN015,China,中国,CN
+"117",Prefecture-level city,Xincheng District,Hohhot,呼和浩特市,CN015060,Inner Mongolia Autonomous Region,内蒙古自治区,CN015,China,中国,CN
+"118",Prefecture-level city,Jining District,Ulanqab,乌兰察布市,CN015100,Inner Mongolia Autonomous Region,内蒙古自治区,CN015,China,中国,CN
+"119",Prefecture-level city,Cheng District,Datong,大同市,CN014020,Shanxi Province,山西省,CN014,China,中国,CN
+"120",Prefecture-level city,Shuocheng District,Shuozhou,朔州市,CN014070,Shanxi Province,山西省,CN014,China,中国,CN
+"121",Prefecture-level city,Xinfu District,Xinzhou,忻州市,CN014090,Shanxi Province,山西省,CN014,China,中国,CN
+"122",Prefecture-level city,Yuyang District,Yulin,榆林市,CN061100,Shaanxi Province,陕西省,CN061,China,中国,CN
+"123",Prefecture-level city,Baota District,Yan'an,延安市,CN061090,Shaanxi Province,陕西省,CN061,China,中国,CN
+"124",Prefecture-level city,Xifeng District,Qingyang,庆阳市,CN062110,Gansu province,甘肃省,CN062,China,中国,CN
+"125",Prefecture-level city,Yuanzhou District,Guyuan,固原市,CN064010,Ningxia Hui Autonomous Region,宁夏回族自治区,CN064,China,中国,CN
+"126",Prefecture-level city,Baiyin District,Baiyin,白银市,CN062010,Gansu province,甘肃省,CN062,China,中国,CN
+"127",Prefecture-level city,Jintai District,Baoji,宝鸡市,CN061020,Shaanxi Province,陕西省,CN061,China,中国,CN
+"128",Prefecture-level city,Hantai District,Hanzhong,汉中市,CN061030,Shaanxi Province,陕西省,CN061,China,中国,CN
+"129",Prefecture-level city,Lizhou District,Guangyuan,广元市,CN051070,Sichuan Province,四川省,CN051,China,中国,CN
+"130",Prefecture-level city,Bazhou District,Bazhong,巴中市,CN051010,Sichuan Province,四川省,CN051,China,中国,CN
+"131",Prefecture-level city,Shunqing District,Nanchong,南充市,CN051130,Sichuan Province,四川省,CN051,China,中国,CN
+"132",Prefecture-level city,Fucheng District,Mianyang,绵阳市,CN051120,Sichuan Province,四川省,CN051,China,中国,CN
+"133",Prefecture-level city,Jingyang District,Deyang,德阳市,CN051040,Sichuan Province,四川省,CN051,China,中国,CN
+"134",Prefecture-level city,Qingyang District,Chengdu,成都市,CN051020,Sichuan Province,四川省,CN051,China,中国,CN
+"135",Autonomous prefecture,"Barkam Town, Barkam County",Ngawa Tibetan and Qiang Autonomous Prefecture,阿坝藏族羌族自治州,CN051150,Sichuan Province,四川省,CN051,China,中国,CN
+"136",Prefecture-level city,Hanbin District,Ankang,安康市,CN061010,Shaanxi Province,陕西省,CN061,China,中国,CN
+"137",Prefecture-level city,Maojian District,Shiyan,十堰市,CN042090,Hubei Province,湖北省,CN042,China,中国,CN
+"138",Prefecture-level city,Xiangcheng District,Xiangyang,襄阳市,CN042130,Hubei Province,湖北省,CN042,China,中国,CN
+"139",Prefecture-level city,Xiling District,Yichang,宜昌市,CN042170,Hubei Province,湖北省,CN042,China,中国,CN
+"140",Autonomous prefecture,Enshi City,Enshi Tujia and Miao Autonomous Prefecture,恩施土家族苗族自治州,CN042010,Hubei Province,湖北省,CN042,China,中国,CN
+"141",Prefecture-level city,Yongding District,Zhangjiajie,张家界市,CN043130,Hunan Province,湖南省,CN043,China,中国,CN
+"142",Autonomous prefecture,Jishou City,Xiangxi Tujia and Miao Autonomous Prefecture,湘西土家族苗族自治州,CN043090,Hunan Province,湖南省,CN043,China,中国,CN
+"143",Prefecture-level city,Bijiang District,Tongren,铜仁市,CN052080,Guizhou Province,贵州省,CN052,China,中国,CN
+"144",Municipality,,Chongqing Municipality,重庆市,CN050010,Chongqing Municipality,重庆市,CN050,China,中国,CN
+"145",Prefecture-level city,Hecheng District,Huaihua,怀化市,CN043050,Hunan Province,湖南省,CN043,China,中国,CN
+"146",Prefecture-level city,Heshan District,Yiyang,益阳市,CN043100,Hunan Province,湖南省,CN043,China,中国,CN
+"147",Prefecture-level city,Louxing District,Loudi,娄底市,CN043060,Hunan Province,湖南省,CN043,China,中国,CN
+"148",Prefecture-level city,Wuling District,Changde,常德市,CN043010,Hunan Province,湖南省,CN043,China,中国,CN
+"149",Prefecture-level city,Shashi District,Jingzhou,荆州市,CN042060,Hubei Province,湖北省,CN042,China,中国,CN
+"150",Prefecture-level city,Dongbao District,Jingmen,荆门市,CN042050,Hubei Province,湖北省,CN042,China,中国,CN
+"151",Prefecture-level city,Yueyanglou District,Yueyang,岳阳市,CN043120,Hunan Province,湖南省,CN043,China,中国,CN
+"152",Prefecture-level city,Yuelu District,Changsha,长沙市,CN043020,Hunan Province,湖南省,CN043,China,中国,CN
+"153",Prefecture-level city,Yuetang District,Xiangtan,湘潭市,CN043080,Hunan Province,湖南省,CN043,China,中国,CN
+"154",Prefecture-level city,Tianyuan District,Zhuzhou,株州市,CN043140,Hunan Province,湖南省,CN043,China,中国,CN
+"155",Prefecture-level city,Zhengxiang District,Hengyang,衡阳市,CN043040,Hunan Province,湖南省,CN043,China,中国,CN
+"156",Prefecture-level city,Daxiang District,Shaoyang,邵阳市,CN043070,Hunan Province,湖南省,CN043,China,中国,CN
+"157",Prefecture-level city,Lengshuitan District,Yongzhou,永州市,CN043110,Hunan Province,湖南省,CN043,China,中国,CN
+"158",Prefecture-level city,Zhenjiang District,Shaoguan,韶关市,CN044140,Guangdong Province,广东省,CN044,China,中国,CN
+"159",Prefecture-level city,Huicheng District,Huizhou,惠州市,CN044060,Guangdong Province,广东省,CN044,China,中国,CN
+"160",Prefecture-level city,Chancheng District,Foshan,佛山市,CN044030,Guangdong Province,广东省,CN044,China,中国,CN
+"161",Prefecture-level city,Yuncheng District,Yunfu,云浮市,CN044170,Guangdong Province,广东省,CN044,China,中国,CN
+"162",Prefecture-level city,Futian District,Shenzhen,深圳市,CN044150,Guangdong Province,广东省,CN044,China,中国,CN
+"163",Prefecture-level city,Cheng District,Shanwei,汕尾市,CN044130,Guangdong Province,广东省,CN044,China,中国,CN
+"164",Prefecture-level city,Yuancheng District,Heyuan,河源市,CN044050,Guangdong Province,广东省,CN044,China,中国,CN
+"165",Prefecture-level city,Rongcheng District,Jieyang,揭阳市,CN044080,Guangdong Province,广东省,CN044,China,中国,CN
+"166",Prefecture-level city,Jinping District,Shantou,汕头市,CN044120,Guangdong Province,广东省,CN044,China,中国,CN
+"167",Prefecture-level city,Xiangqiao District,Chaozhou,潮州市,CN044010,Guangdong Province,广东省,CN044,China,中国,CN
+"168",Prefecture-level city,Meijiang District,Meizhou,梅州市,CN044100,Guangdong Province,广东省,CN044,China,中国,CN
+"169",Prefecture-level city,Xiangcheng District,Zhangzhou,漳州市,CN035090,Fujian Province,福建省,CN035,China,中国,CN
+"170",Prefecture-level city,Siming District,Xiamen,厦门市,CN035080,Fujian Province,福建省,CN035,China,中国,CN
+"171",Prefecture-level city,Xinluo District,Longyan,龙岩市,CN035020,Fujian Province,福建省,CN035,China,中国,CN
+"172",Prefecture-level city,Fengze District,Quanzhou,泉州市,CN035060,Fujian Province,福建省,CN035,China,中国,CN
+"173",Prefecture-level city,Chengxiang District,Putian,莆田市,CN035050,Fujian Province,福建省,CN035,China,中国,CN
+"174",Prefecture-level city,Gulou District,Fuzhou,福州市,CN035010,Fujian Province,福建省,CN035,China,中国,CN
+"175",Prefecture-level city,Meilie District,Sanming,三明市,CN035070,Fujian Province,福建省,CN035,China,中国,CN
+"176",Prefecture-level city,Yanping District,Nanping,南平市,CN035030,Fujian Province,福建省,CN035,China,中国,CN
+"177",Prefecture-level city,Linchuan District,Fuzhou,抚州市,CN036010,Jiangxi Province,江西省,CN036,China,中国,CN
+"178",Prefecture-level city,Yuehu District,Yingtan,鹰潭市,CN036110,Jiangxi Province,江西省,CN036,China,中国,CN
+"179",Prefecture-level city,Jizhou District,Ji'an,吉安市,CN036030,Jiangxi Province,江西省,CN036,China,中国,CN
+"180",Prefecture-level city,Zhanggong District,Ganzhou,赣州市,CN036020,Jiangxi Province,江西省,CN036,China,中国,CN
+"181",Prefecture-level city,Beihu District,Chenzhou,郴州市,CN043030,Hunan Province,湖南省,CN043,China,中国,CN
+"182",Prefecture-level city,Yushui District,Xinyu,新余市,CN036090,Jiangxi Province,江西省,CN036,China,中国,CN
+"183",Prefecture-level city,Yuanzhou District,Yichun,宜春市,CN036100,Jiangxi Province,江西省,CN036,China,中国,CN
+"184",Prefecture-level city,Donghu District,Nanchang,南昌市,CN036060,Jiangxi Province,江西省,CN036,China,中国,CN
+"185",Prefecture-level city,Xunyang District,Jiujiang,九江市,CN036050,Jiangxi Province,江西省,CN036,China,中国,CN
+"186",Prefecture-level city,Xinzhou District,Shangrao,上饶市,CN036080,Jiangxi Province,江西省,CN036,China,中国,CN
+"187",Prefecture-level city,Changjiang District,Jingdezhen,景德镇市,CN036040,Jiangxi Province,江西省,CN036,China,中国,CN
+"188",Prefecture-level city,Tunxi District,Huangshan,黄山市,CN034100,Anhui Province,安徽省,CN034,China,中国,CN
+"189",Prefecture-level city,Guichi District,Chizhou,池州市,CN034040,Anhui Province,安徽省,CN034,China,中国,CN
+"190",Prefecture-level city,Tongguanshan District,Tongling,铜陵市,CN034140,Anhui Province,安徽省,CN034,China,中国,CN
+"191",Prefecture-level city,Daguan District,Anqing,安庆市,CN034010,Anhui Province,安徽省,CN034,China,中国,CN
+"192",Prefecture-level city,Xialu District,Huangshi,黄石市,CN042040,Hubei Province,湖北省,CN042,China,中国,CN
+"193",Prefecture-level city,Xian'an District,Xianning,咸宁市,CN042140,Hubei Province,湖北省,CN042,China,中国,CN
+"194",Prefecture-level city,Huangzhou District,Huanggang,黄冈市,CN042030,Hubei Province,湖北省,CN042,China,中国,CN
+"195",Prefecture-level city,Jiang'an District,Wuhan,武汉市,CN042120,Hubei Province,湖北省,CN042,China,中国,CN
+"196",Prefecture-level city,Zengdu District,Suizhou,随州市,CN042100,Hubei Province,湖北省,CN042,China,中国,CN
+"197",Prefecture-level city,Shihe District,Xinyang,信阳市,CN041140,Henan Province,河南省,CN041,China,中国,CN
+"198",Prefecture-level city,Yicheng District,Zhumadian,驻马店市,CN041180,Henan Province,河南省,CN041,China,中国,CN
+"199",Prefecture-level city,Shangzhou District,Shangluo,商洛市,CN061040,Shaanxi Province,陕西省,CN061,China,中国,CN
+"200",Prefecture-level city,Weiyang District,Xi'an,西安市,CN061070,Shaanxi Province,陕西省,CN061,China,中国,CN
+"201",Prefecture-level city,Linwei District,Weinan,渭南市,CN061060,Shaanxi Province,陕西省,CN061,China,中国,CN
+"202",Prefecture-level city,Yaozhou District,Tongchuan,铜川市,CN061050,Shaanxi Province,陕西省,CN061,China,中国,CN
+"203",Prefecture-level city,Qindu District,Xianyang,咸阳市,CN061080,Shaanxi Province,陕西省,CN061,China,中国,CN
+"204",Prefecture-level city,Hubin District,Sanmenxia,三门峡市,CN041110,Henan Province,河南省,CN041,China,中国,CN
+"205",Prefecture-level city,Yanhu District,Yuncheng,运城市,CN014110,Shanxi Province,山西省,CN014,China,中国,CN
+"206",Prefecture-level city,Luolong District,Luoyang,洛阳市,CN041070,Henan Province,河南省,CN041,China,中国,CN
+"207",Prefecture-level city,Xinhua District,Pingdingshan,平顶山市,CN041090,Henan Province,河南省,CN041,China,中国,CN
+"208",Prefecture-level city,Yancheng District,Luohe,漯河市,CN041060,Henan Province,河南省,CN041,China,中国,CN
+"209",Prefecture-level city,Weidu District,Xuchang,许昌市,CN041150,Henan Province,河南省,CN041,China,中国,CN
+"210",Prefecture-level city,Zhongyuan District,Zhengzhou,郑州市,CN041160,Henan Province,河南省,CN041,China,中国,CN
+"211",Prefecture-level city,Jiefang District,Jiaozuo,焦作市,CN041030,Henan Province,河南省,CN041,China,中国,CN
+"212",Prefecture-level city,Cheng District,Jincheng,晋城市,CN014030,Shanxi Province,山西省,CN014,China,中国,CN
+"213",Prefecture-level city,Cheng District,Changzhi,长治市,CN014010,Shanxi Province,山西省,CN014,China,中国,CN
+"214",Prefecture-level city,Yaodu District,Linfen,临汾市,CN014060,Shanxi Province,山西省,CN014,China,中国,CN
+"215",Prefecture-level city,Xinghualing District,Taiyuan,太原市,CN014080,Shanxi Province,山西省,CN014,China,中国,CN
+"216",Prefecture-level city,Lishi District,Lüliang,吕梁市,CN014050,Shanxi Province,山西省,CN014,China,中国,CN
+"217",Prefecture-level city,Yuci District,Jinzhong,晋中市,CN014040,Shanxi Province,山西省,CN014,China,中国,CN
+"218",Prefecture-level city,Congtai District,Handan,邯郸市,CN013040,Hebei Province,河北省,CN013,China,中国,CN
+"219",Prefecture-level city,Wenfeng District,Anyang,安阳市,CN041010,Henan Province,河南省,CN041,China,中国,CN
+"220",Prefecture-level city,Qibin District,Hebi,鹤壁市,CN041020,Henan Province,河南省,CN041,China,中国,CN
+"221",Prefecture-level city,Weibin District,Xinxiang,新乡市,CN041130,Henan Province,河南省,CN041,China,中国,CN
+"222",Prefecture-level city,Gulou District,Kaifeng,开封市,CN041050,Henan Province,河南省,CN041,China,中国,CN
+"223",Prefecture-level city,Chuanhui District,Zhoukou,周口市,CN041170,Henan Province,河南省,CN041,China,中国,CN
+"224",Prefecture-level city,Yingzhou District,Fuyang,阜阳市,CN034060,Anhui Province,安徽省,CN034,China,中国,CN
+"225",Prefecture-level city,Tianjia'an District,Huainan,淮南市,CN034090,Anhui Province,安徽省,CN034,China,中国,CN
+"226",Prefecture-level city,Bengshan District,Bengbu,蚌埠市,CN034020,Anhui Province,安徽省,CN034,China,中国,CN
+"227",Prefecture-level city,Xiangshan District,Huaibei,淮北市,CN034080,Anhui Province,安徽省,CN034,China,中国,CN
+"228",Prefecture-level city,Yongqiao District,Suzhou,宿州市,CN034130,Anhui Province,安徽省,CN034,China,中国,CN
+"229",Prefecture-level city,Qiaocheng District,Bozhou,亳州市,CN034030,Anhui Province,安徽省,CN034,China,中国,CN
+"230",Prefecture-level city,Liangyuan District,Shangqiu,商丘市,CN041120,Henan Province,河南省,CN041,China,中国,CN
+"231",Prefecture-level city,Mudan District,Heze,菏泽市,CN037040,Shandong Province,山东省,CN037,China,中国,CN
+"232",Prefecture-level city,Hualong District,Puyang,濮阳市,CN041100,Henan Province,河南省,CN041,China,中国,CN
+"233",Prefecture-level city,Dongchangfu District,Liaocheng,聊城市,CN037080,Shandong Province,山东省,CN037,China,中国,CN
+"234",Prefecture-level city,Qiaodong District,Xingtai,邢台市,CN013100,Hebei Province,河北省,CN013,China,中国,CN
+"235",Prefecture-level city,Chang'an District,Shijiazhuang,石家庄市,CN013080,Hebei Province,河北省,CN013,China,中国,CN
+"236",Prefecture-level city,Cheng District,Yangquan,阳泉市,CN014100,Shanxi Province,山西省,CN014,China,中国,CN
+"237",Prefecture-level city,Xinshi District,Baoding,保定市,CN013010,Hebei Province,河北省,CN013,China,中国,CN
+"238",Prefecture-level city,Taocheng District,Hengshui,衡水市,CN013050,Hebei Province,河北省,CN013,China,中国,CN
+"239",Prefecture-level city,Decheng District,Dezhou,德州市,CN037020,Shandong Province,山东省,CN037,China,中国,CN
+"240",Prefecture-level city,Yunhe District,Cangzhou,沧州市,CN013020,Hebei Province,河北省,CN013,China,中国,CN
+"241",Prefecture-level city,Guangyang District,Langfang,廊坊市,CN013060,Hebei Province,河北省,CN013,China,中国,CN
+"242",Municipality,,Tianjin Municipality,天津市,CN012010,Tianjin Municipality,天津市,CN012,China,中国,CN
+"243",Municipality,,Beijing Municipality,北京市,CN011010,Beijing Municipality,北京市,CN011,China,中国,CN
+"244",Prefecture-level city,Qiaoxi District,Zhangjiakou,张家口市,CN013110,Hebei Province,河北省,CN013,China,中国,CN
+"245",Prefecture-level city,Lubei District,Tangshan,唐山市,CN013090,Hebei Province,河北省,CN013,China,中国,CN
+"246",Prefecture-level city,Haigang District,Qinhuangdao,秦皇岛市,CN013070,Hebei Province,河北省,CN013,China,中国,CN
+"247",Prefecture-level city,Shuangqiao District,Chengde,承德市,CN013030,Hebei Province,河北省,CN013,China,中国,CN
+"248",Prefecture-level city,Longgang District,Huludao,葫芦岛市,CN021080,Liaoning Province,辽宁省,CN021,China,中国,CN
+"249",Prefecture-level city,Shuangta District,Chaoyang,朝阳市,CN021030,Liaoning Province,辽宁省,CN021,China,中国,CN
+"250",Prefecture-level city,Hongshan District,Chifeng,赤峰市,CN015040,Inner Mongolia Autonomous Region,内蒙古自治区,CN015,China,中国,CN
+"251",Prefecture-level city,Taihe District,Jinzhou,锦州市,CN021090,Liaoning Province,辽宁省,CN021,China,中国,CN
+"252",Prefecture-level city,Zhanqian District,Yingkou,营口市,CN021140,Liaoning Province,辽宁省,CN021,China,中国,CN
+"253",Prefecture-level city,Zhenxing District,Dandong,丹东市,CN021050,Liaoning Province,辽宁省,CN021,China,中国,CN
+"254",Prefecture-level city,Baita District,Liaoyang,辽阳市,CN021100,Liaoning Province,辽宁省,CN021,China,中国,CN
+"255",Prefecture-level city,Xinglongtai District,Panjin,盘锦市,CN021110,Liaoning Province,辽宁省,CN021,China,中国,CN
+"256",Prefecture-level city,Xihe District,Fuxin,阜新市,CN021070,Liaoning Province,辽宁省,CN021,China,中国,CN
+"257",Prefecture-level city,Tiedong District,Anshan,鞍山市,CN021010,Liaoning Province,辽宁省,CN021,China,中国,CN
+"258",Prefecture-level city,Shenhe District,Shenyang,沈阳市,CN021120,Liaoning Province,辽宁省,CN021,China,中国,CN
+"259",Prefecture-level city,Yinzhou District,Tieling,铁岭市,CN021130,Liaoning Province,辽宁省,CN021,China,中国,CN
+"260",Prefecture-level city,Shuncheng District,Fushun,抚顺市,CN021060,Liaoning Province,辽宁省,CN021,China,中国,CN
+"261",Prefecture-level city,Horqin District,Tongliao,通辽市,CN015090,Inner Mongolia Autonomous Region,内蒙古自治区,CN015,China,中国,CN
+"262",League,Ulanhot City,Hinggan League,兴安盟,CN015050,Inner Mongolia Autonomous Region,内蒙古自治区,CN015,China,中国,CN
+"263",Prefecture-level city,Taobei District,Baicheng,白城市,CN022010,Jilin Province,吉林省,CN022,China,中国,CN
+"264",Prefecture-level city,Jianhua District,Qiqihar,齐齐哈尔市,CN023090,Heilongjiang Province,黑龙江省,CN023,China,中国,CN
+"265",Prefecture,Jiagedaqi District,Daxinganling Prefecture,大兴安岭地区[4],CN023020,Heilongjiang Province,黑龙江省,CN023,China,中国,CN
+"266",Prefecture-level city,Aihui District,Heihe,黑河市,CN023050,Heilongjiang Province,黑龙江省,CN023,China,中国,CN
+"267",Prefecture-level city,Sartu District,Daqing,大庆市,CN023010,Heilongjiang Province,黑龙江省,CN023,China,中国,CN
+"268",Prefecture-level city,Beilin District,Suihua,绥化市,CN023120,Heilongjiang Province,黑龙江省,CN023,China,中国,CN
+"269",Prefecture-level city,Ningjiang District,Songyuan,松原市,CN022070,Jilin Province,吉林省,CN022,China,中国,CN
+"270",Prefecture-level city,Tiexi District,Siping,四平市,CN022060,Jilin Province,吉林省,CN022,China,中国,CN
+"271",Prefecture-level city,Dongchang District,Tonghua,通化市,CN022080,Jilin Province,吉林省,CN022,China,中国,CN
+"272",Prefecture-level city,Longshan District,Liaoyuan,辽源市,CN022050,Jilin Province,吉林省,CN022,China,中国,CN
+"273",Prefecture-level city,Chuanying District,Jilin,吉林市,CN022040,Jilin Province,吉林省,CN022,China,中国,CN
+"274",Prefecture-level city,Chaoyang District,Changchun,长春市,CN022030,Jilin Province,吉林省,CN022,China,中国,CN
+"275",Prefecture-level city,Hunjiang District,Baishan,白山市,CN022020,Jilin Province,吉林省,CN022,China,中国,CN
+"276",Prefecture-level city,Songbei District,Harbin,哈尔滨市,CN023030,Heilongjiang Province,黑龙江省,CN023,China,中国,CN
+"277",Prefecture-level city,Xiangyang District,Hegang,鹤岗市,CN023040,Heilongjiang Province,黑龙江省,CN023,China,中国,CN
+"278",Prefecture-level city,Yichun District,Yichun,伊春市,CN023130,Heilongjiang Province,黑龙江省,CN023,China,中国,CN
+"279",Prefecture-level city,Taoshan District,Qitaihe,七台河市,CN023100,Heilongjiang Province,黑龙江省,CN023,China,中国,CN
+"280",Prefecture-level city,Jiguan District,Jixi,鸡西市,CN023070,Heilongjiang Province,黑龙江省,CN023,China,中国,CN
+"281",Prefecture-level city,Jianshan District,Shuangyashan,双鸭山市,CN023110,Heilongjiang Province,黑龙江省,CN023,China,中国,CN
+"282",Prefecture-level city,Qianjin District,Jiamusi,佳木斯市,CN023060,Heilongjiang Province,黑龙江省,CN023,China,中国,CN
+"283",Prefecture-level city,Hailar District,Hulunbuir,呼伦贝尔市,CN015070,Inner Mongolia Autonomous Region,内蒙古自治区,CN015,China,中国,CN
+"284",Prefecture-level city,Xiaonan District,Xiaogan,孝感市,CN042160,Hubei Province,湖北省,CN042,China,中国,CN
+"285",Prefecture-level city,Gangbei District,Guigang,贵港市,CN045050,Guangxi Zhuang Autonomous Region,广西壮族自治区,CN045,China,中国,CN
+"286",Autonomous prefecture,Duyun City,Qiannan Buyi and Miao Autonomous Prefecture,黔南布依族苗族自治州,CN052060,Guizhou Province,贵州省,CN052,China,中国,CN
+"287",Prefecture-level city,Jiaocheng District,Ningde,宁德市,CN035040,Fujian Province,福建省,CN035,China,中国,CN
+"288",Prefecture-level city,Lucheng District,Wenzhou,温州市,CN033100,Zhejiang Province,浙江省,CN033,China,中国,CN
+"289",Prefecture-level city,Jiaojiang District,Taizhou,台州市,CN033090,Zhejiang Province,浙江省,CN033,China,中国,CN
+"290",Prefecture-level city,Liandu District,Lishui,丽水市,CN033050,Zhejiang Province,浙江省,CN033,China,中国,CN
+"291",Prefecture-level city,Kecheng District,Quzhou,衢州市,CN033070,Zhejiang Province,浙江省,CN033,China,中国,CN
+"292",Prefecture-level city,Wucheng District,Jinhua,金华市,CN033040,Zhejiang Province,浙江省,CN033,China,中国,CN
+"293",Prefecture-level city,Yuecheng District,Shaoxing,绍兴市,CN033080,Zhejiang Province,浙江省,CN033,China,中国,CN
+"294",Prefecture-level city,Yinzhou District,Ningbo,宁波市,CN033060,Zhejiang Province,浙江省,CN033,China,中国,CN
+"295",Prefecture-level city,Jianggan District,Hangzhou,杭州市,CN033010,Zhejiang Province,浙江省,CN033,China,中国,CN
+"296",Prefecture-level city,Xuanzhou District,Xuancheng,宣城市,CN034160,Anhui Province,安徽省,CN034,China,中国,CN
+"297",Prefecture-level city,Wuxing District,Huzhou,湖州市,CN033020,Zhejiang Province,浙江省,CN033,China,中国,CN
+"298",Prefecture-level city,Nanhu District,Jiaxing,嘉兴市,CN033030,Zhejiang Province,浙江省,CN033,China,中国,CN
+"299",Municipality,,Shanghai Municipality,上海市,CN031010,Shanghai Municipality,上海市,CN031,China,中国,CN
+"300",Prefecture-level city,Gusu District,Suzhou,苏州市,CN032070,Jiangsu Province,江苏省,CN032,China,中国,CN
+"301",Prefecture-level city,Binhu District,Wuxi,无锡市,CN032090,Jiangsu Province,江苏省,CN032,China,中国,CN
+"302",Prefecture-level city,Xinbei District,Changzhou,常州市,CN032010,Jiangsu Province,江苏省,CN032,China,中国,CN
+"303",Prefecture-level city,Xuanwu District,Nanjing,南京市,CN032040,Jiangsu Province,江苏省,CN032,China,中国,CN
+"304",Prefecture-level city,Runzhou District,Zhenjiang,镇江市,CN032130,Jiangsu Province,江苏省,CN032,China,中国,CN
+"305",Prefecture-level city,Shushan District,Hefei,合肥市,CN034070,Anhui Province,安徽省,CN034,China,中国,CN
+"306",Prefecture-level city,Jin'an District,Lu'an,六安市,CN034110,Anhui Province,安徽省,CN034,China,中国,CN
+"307",Prefecture-level city,Langya District,Chuzhou,滁州市,CN034050,Anhui Province,安徽省,CN034,China,中国,CN
+"308",Prefecture-level city,Hailing District,Taizhou,泰州市,CN032080,Jiangsu Province,江苏省,CN032,China,中国,CN
+"309",Prefecture-level city,Chongchuan District,Nantong,南通市,CN032050,Jiangsu Province,江苏省,CN032,China,中国,CN
+"310",Prefecture-level city,Tinghu District,Yancheng,盐城市,CN032110,Jiangsu Province,江苏省,CN032,China,中国,CN
+"311",Prefecture-level city,Qinghe District,Huai'an,淮安市,CN032020,Jiangsu Province,江苏省,CN032,China,中国,CN
+"312",Prefecture-level city,Sucheng District,Suqian,宿迁市,CN032060,Jiangsu Province,江苏省,CN032,China,中国,CN
+"313",Prefecture-level city,Yunlong District,Xuzhou,徐州市,CN032100,Jiangsu Province,江苏省,CN032,China,中国,CN
+"314",Prefecture-level city,Shizhong District,Jining,济宁市,CN037060,Shandong Province,山东省,CN037,China,中国,CN
+"315",Prefecture-level city,Shizhong District,Zaozhuang,枣庄市,CN037160,Shandong Province,山东省,CN037,China,中国,CN
+"316",Prefecture-level city,Xinpu District,Lianyungang,连云港市,CN032030,Jiangsu Province,江苏省,CN032,China,中国,CN
+"317",Prefecture-level city,Lanshan District,Linyi,临沂市,CN037090,Shandong Province,山东省,CN037,China,中国,CN
+"318",Prefecture-level city,Donggang District,Rizhao,日照市,CN037110,Shandong Province,山东省,CN037,China,中国,CN
+"319",Prefecture-level city,Shinan District,Qingdao,青岛市,CN037100,Shandong Province,山东省,CN037,China,中国,CN
+"320",Prefecture-level city,Huancui District,Weihai,威海市,CN037140,Shandong Province,山东省,CN037,China,中国,CN
+"321",Prefecture-level city,Laishan District,Yantai,烟台市,CN037150,Shandong Province,山东省,CN037,China,中国,CN
+"322",Prefecture-level city,Kuiwen District,Weifang,潍坊市,CN037130,Shandong Province,山东省,CN037,China,中国,CN
+"323",Prefecture-level city,Zhangdian District,Zibo,淄博市,CN037170,Shandong Province,山东省,CN037,China,中国,CN
+"324",Prefecture-level city,Taishan District,Tai'an,泰安市,CN037120,Shandong Province,山东省,CN037,China,中国,CN
+"325",Prefecture-level city,Lixia District,Jinan,济南市,CN037050,Shandong Province,山东省,CN037,China,中国,CN
+"326",Prefecture-level city,Dongying District,Dongying,东营市,CN037030,Shandong Province,山东省,CN037,China,中国,CN
+"327",Prefecture-level city,Bincheng District,Binzhou,滨州市,CN037010,Shandong Province,山东省,CN037,China,中国,CN
+"328",Prefecture-level city,Chenggong District,Kunming,昆明市,CN053070,Yunnan Province,云南省,CN053,China,中国,CN
+"329",Prefecture-level city,Hongta District,Yuxi,玉溪市,CN053150,Yunnan Province,云南省,CN053,China,中国,CN
+"330",Prefecture,Tacheng (Qoqek) City,Tarbaĝatay Prefecture,塔城地区,CN065140,Xinjiang Uygur Autonomous Region,新疆维吾尔自治区,CN065,China,中国,CN
+"331",Prefecture-level city,Ganzhou District,Zhangye,张掖市,CN062140,Gansu province,甘肃省,CN062,China,中国,CN
+"332",Prefecture-level city,Wolong District,Nanyang,南阳市,CN041080,Henan Province,河南省,CN041,China,中国,CN
+"333",Prefecture-level city,Guangling District,Yangzhou,扬州市,CN032120,Jiangsu Province,江苏省,CN032,China,中国,CN
+"334",Autonomous prefecture,Yanji City,Yanbian Korean Autonomous Prefecture,延边朝鲜族自治州,CN022090,Jilin Province,吉林省,CN022,China,中国,CN
+"335",Prefecture-level city,Dong'an District,Mudanjiang,牡丹江市,CN023080,Heilongjiang Province,黑龙江省,CN023,China,中国,CN
+"336",Prefecture-level city,Xigang District,Dalian,大连市,CN021040,Liaoning Province,辽宁省,CN021,China,中国,CN
+"337",Special Administrative Region,,Macao Special Administrative Region,澳门,CN082010,Macao Special Administrative Region,澳门特别行政区,CN082,China,中国,CN
+"338",Prefecture-level city,Litong District,Wuzhong,吴忠市,CN064030,Ningxia Hui Autonomous Region,宁夏回族自治区,CN064,China,中国,CN
+"339",Prefecture-level city,Xingbin District,Laibin,来宾市,CN045090,Guangxi Zhuang Autonomous Region,广西壮族自治区,CN045,China,中国,CN
+"340",Prefecture-level city,Kongtong District,Pingliang,平凉市,CN062100,Gansu province,甘肃省,CN062,China,中国,CN
+"341",Prefecture-level city,Yushan District,Ma'anshan,马鞍山市,CN034120,Anhui Province,安徽省,CN034,China,中国,CN
+"342",Prefecture-level city,Jiujiang District,Wuhu,芜湖市,CN034150,Anhui Province,安徽省,CN034,China,中国,CN
+"343",County,,Lingao County,临高县[2],CN046100,Hainan Province,海南省,CN046,China,中国,CN
+"344",County,,Chengmai County,澄迈县[2],CN046040,Hainan Province,海南省,CN046,China,中国,CN
+"345",Prefecture-level city,Xisha District (Xisha Islands),Sansha,三沙市,CN046140,Hainan Province,海南省,CN046,China,中国,CN
+"346",County-level City,,Wanning City,万宁市[1],CN046170,Hainan Province,海南省,CN046,China,中国,CN
+"347",Autonomous County,,Baoting Li and Miao Autonomous County,保亭黎族苗族自治县[2],CN046020,Hainan Province,海南省,CN046,China,中国,CN
+"348",Autonomous County,,Ledong Li Autonomous County,乐东黎族自治县[2],CN046090,Hainan Province,海南省,CN046,China,中国,CN
+"349",Prefecture-level city,Nada Town,Danzhou,儋州市,CN046050,Hainan Province,海南省,CN046,China,中国,CN
+"350",County,,Ding'an County,定安县[2],CN046060,Hainan Province,海南省,CN046,China,中国,CN
+"351",County,,Tunchang County,屯昌县[1],CN046160,Hainan Province,海南省,CN046,China,中国,CN
+"352",Autonomous County,,Baisha Li Autonomous County,白沙黎族自治县[2],CN046010,Hainan Province,海南省,CN046,China,中国,CN
+"353",Autonomous County,,Qiongzhong Li and Miao Autonomous County,琼中黎族苗族自治县[2],CN046130,Hainan Province,海南省,CN046,China,中国,CN
+"354",County-level City,,Dongfang City,东方市[1],CN046070,Hainan Province,海南省,CN046,China,中国,CN
+"355",Autonomous County,,Changjiang Li Autonomous County,昌江黎族自治县[2],CN046030,Hainan Province,海南省,CN046,China,中国,CN
+"356",County-level City,,Qionghai City,琼海市[1],CN046120,Hainan Province,海南省,CN046,China,中国,CN
+"357",Autonomous County,,Lingshui Li Autonomous County,陵水黎族自治县[2],CN046110,Hainan Province,海南省,CN046,China,中国,CN
+"358",Prefecture-level city,Longhua District,Haikou,海口市,CN046080,Hainan Province,海南省,CN046,China,中国,CN
+"359",Prefecture-level city,Jiyang District,Sanya,三亚市,CN046150,Hainan Province,海南省,CN046,China,中国,CN
+"360",Sub-prefecture-level city,Qinyuan Subdistrict,Jiyuan,济源市〔1〕,CN041040,Henan Province,河南省,CN041,China,中国,CN
+"361",County-level City,,Wuzhishan City,五指山市[1],CN046180,Hainan Province,海南省,CN046,China,中国,CN
