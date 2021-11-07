@@ -1,0 +1,841 @@
+<?xml version="1.0" encoding="UTF-8"?><MD_Metadata xmlns:gts="http://www.isotc211.org/2005/gts" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:xalan="http://xml.apache.org/xalan" xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gml="http://www.opengis.net/gml" xmlns="http://www.isotc211.org/2005/gmd">
+    <fileIdentifier>
+        <gco:CharacterString>{94F8D1C5-0061-4548-A7DE-D8B9DE209CE0}</gco:CharacterString>
+    </fileIdentifier>
+    <language>
+        <LanguageCode codeList="http://www.loc.gov/standards/iso639-2/php/code_list.php" codeListValue="eng" codeSpace="ISO639-2">eng</LanguageCode>
+    </language>
+    <characterSet>
+        <MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</MD_CharacterSetCode>
+    </characterSet>
+    <hierarchyLevel>
+        <MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="ISOTC211/19115">dataset</MD_ScopeCode>
+    </hierarchyLevel>
+    <hierarchyLevelName>
+        <gco:CharacterString>dataset</gco:CharacterString>
+    </hierarchyLevelName>
+    <contact>
+        <CI_ResponsibleParty>
+            <individualName>
+                <gco:CharacterString>ArcGIS Content Team</gco:CharacterString>
+            </individualName>
+            <organisationName>
+                <gco:CharacterString>Esri</gco:CharacterString>
+            </organisationName>
+            <positionName>
+                <gco:CharacterString>ArcGIS Content Team</gco:CharacterString>
+            </positionName>
+            <contactInfo>
+                <CI_Contact>
+                    <phone>
+                        <CI_Telephone>
+                            <voice>
+                                <gco:CharacterString>909-793-2853</gco:CharacterString>
+                            </voice>
+                            <facsimile>
+                                <gco:CharacterString>909-793-5953</gco:CharacterString>
+                            </facsimile>
+                        </CI_Telephone>
+                    </phone>
+                    <address>
+                        <CI_Address>
+                            <deliveryPoint>
+                                <gco:CharacterString>380 New York Street</gco:CharacterString>
+                            </deliveryPoint>
+                            <city>
+                                <gco:CharacterString>Redlands</gco:CharacterString>
+                            </city>
+                            <administrativeArea>
+                                <gco:CharacterString>California</gco:CharacterString>
+                            </administrativeArea>
+                            <postalCode>
+                                <gco:CharacterString>92373-8100</gco:CharacterString>
+                            </postalCode>
+                            <country>
+                                <Country codeList="http://www.iso.org/iso/country_codes/iso_3166_code_lists.htm" codeListValue="US" codeSpace="ISO3166-1">US</Country>
+                            </country>
+                            <electronicMailAddress>
+                                <gco:CharacterString>info@esri.com</gco:CharacterString>
+                            </electronicMailAddress>
+                        </CI_Address>
+                    </address>
+                </CI_Contact>
+            </contactInfo>
+            <role>
+                <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="publisher" codeSpace="ISOTC211/19115">publisher</CI_RoleCode>
+            </role>
+        </CI_ResponsibleParty>
+    </contact>
+    <dateStamp>
+        <gco:Date>2011-12-14</gco:Date>
+    </dateStamp>
+    <metadataStandardName>
+        <gco:CharacterString>ISO 19139 Geographic Information - Metadata - Implementation Specification</gco:CharacterString>
+    </metadataStandardName>
+    <metadataStandardVersion>
+        <gco:CharacterString>2007</gco:CharacterString>
+    </metadataStandardVersion>
+    <spatialRepresentationInfo>
+        <MD_VectorSpatialRepresentation>
+            <topologyLevel>
+                <MD_TopologyLevelCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_TopologyLevelCode" codeListValue="geometryOnly" codeSpace="ISOTC211/19115">geometryOnly</MD_TopologyLevelCode>
+            </topologyLevel>
+            <geometricObjects>
+                <MD_GeometricObjects>
+                    <geometricObjectType>
+                        <MD_GeometricObjectTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_GeometricObjectTypeCode" codeListValue="complex" codeSpace="ISOTC211/19115">complex</MD_GeometricObjectTypeCode>
+                    </geometricObjectType>
+                    <geometricObjectCount>
+                        <gco:Integer>8</gco:Integer>
+                    </geometricObjectCount>
+                </MD_GeometricObjects>
+            </geometricObjects>
+        </MD_VectorSpatialRepresentation>
+    </spatialRepresentationInfo>
+    <referenceSystemInfo>
+        <MD_ReferenceSystem>
+            <referenceSystemIdentifier>
+                <RS_Identifier>
+                    <code>
+                        <gco:CharacterString>GCS_WGS_1984</gco:CharacterString>
+                    </code>
+                </RS_Identifier>
+            </referenceSystemIdentifier>
+        </MD_ReferenceSystem>
+    </referenceSystemInfo>
+    <identificationInfo>
+        <MD_DataIdentification>
+            <citation>
+                <CI_Citation>
+                    <title>
+                        <gco:CharacterString>World Continents</gco:CharacterString>
+                    </title>
+                    <date gco:nilReason="missing"/>
+                    <edition>
+                        <gco:CharacterString>2013</gco:CharacterString>
+                    </edition>
+                    <editionDate>
+                        <gco:Date>2013-06-01</gco:Date>
+                    </editionDate>
+                    <citedResponsibleParty>
+                        <CI_ResponsibleParty>
+                            <individualName>
+                                <gco:CharacterString>ArcGIS Content Team</gco:CharacterString>
+                            </individualName>
+                            <organisationName>
+                                <gco:CharacterString>Esri</gco:CharacterString>
+                            </organisationName>
+                            <positionName>
+                                <gco:CharacterString>ArcGIS Content Team</gco:CharacterString>
+                            </positionName>
+                            <contactInfo>
+                                <CI_Contact>
+                                    <phone>
+                                        <CI_Telephone>
+                                            <voice>
+                                                <gco:CharacterString>909-793-2853</gco:CharacterString>
+                                            </voice>
+                                            <facsimile>
+                                                <gco:CharacterString>909-793-5953</gco:CharacterString>
+                                            </facsimile>
+                                        </CI_Telephone>
+                                    </phone>
+                                    <address>
+                                        <CI_Address>
+                                            <deliveryPoint>
+                                                <gco:CharacterString>380 New York Street</gco:CharacterString>
+                                            </deliveryPoint>
+                                            <city>
+                                                <gco:CharacterString>Redlands</gco:CharacterString>
+                                            </city>
+                                            <administrativeArea>
+                                                <gco:CharacterString>California</gco:CharacterString>
+                                            </administrativeArea>
+                                            <postalCode>
+                                                <gco:CharacterString>92373-8100</gco:CharacterString>
+                                            </postalCode>
+                                            <country>
+                                                <Country codeList="http://www.iso.org/iso/country_codes/iso_3166_code_lists.htm" codeListValue="US" codeSpace="ISO3166-1">US</Country>
+                                            </country>
+                                            <electronicMailAddress>
+                                                <gco:CharacterString>info@esri.com</gco:CharacterString>
+                                            </electronicMailAddress>
+                                        </CI_Address>
+                                    </address>
+                                </CI_Contact>
+                            </contactInfo>
+                            <role>
+                                <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact" codeSpace="ISOTC211/19115">pointOfContact</CI_RoleCode>
+                            </role>
+                        </CI_ResponsibleParty>
+                    </citedResponsibleParty>
+                    <presentationForm>
+                        <CI_PresentationFormCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_PresentationFormCode" codeListValue="mapDigital" codeSpace="ISOTC211/19115">mapDigital</CI_PresentationFormCode>
+                    </presentationForm>
+                    <series>
+                        <CI_Series>
+                            <name>
+                                <gco:CharacterString>Data &amp; Maps for ArcGIS®</gco:CharacterString>
+                            </name>
+                            <issueIdentification>
+                                <gco:CharacterString>2013 - World, Europe, and United States</gco:CharacterString>
+                            </issueIdentification>
+                        </CI_Series>
+                    </series>
+                </CI_Citation>
+            </citation>
+            <abstract>
+                <gco:CharacterString>World Continents represents the boundaries for the continents of the world.</gco:CharacterString>
+            </abstract>
+            <purpose>
+                <gco:CharacterString>World Continents provides a base map layer of the continents for the world.</gco:CharacterString>
+            </purpose>
+            <pointOfContact>
+                <CI_ResponsibleParty>
+                    <individualName>
+                        <gco:CharacterString>ArcGIS Content Team</gco:CharacterString>
+                    </individualName>
+                    <organisationName>
+                        <gco:CharacterString>Esri</gco:CharacterString>
+                    </organisationName>
+                    <positionName>
+                        <gco:CharacterString>ArcGIS Content Team</gco:CharacterString>
+                    </positionName>
+                    <contactInfo>
+                        <CI_Contact>
+                            <phone>
+                                <CI_Telephone>
+                                    <voice>
+                                        <gco:CharacterString>909-793-2853</gco:CharacterString>
+                                    </voice>
+                                    <facsimile>
+                                        <gco:CharacterString>909-793-5953</gco:CharacterString>
+                                    </facsimile>
+                                </CI_Telephone>
+                            </phone>
+                            <address>
+                                <CI_Address>
+                                    <deliveryPoint>
+                                        <gco:CharacterString>380 New York Street</gco:CharacterString>
+                                    </deliveryPoint>
+                                    <city>
+                                        <gco:CharacterString>Redlands</gco:CharacterString>
+                                    </city>
+                                    <administrativeArea>
+                                        <gco:CharacterString>California</gco:CharacterString>
+                                    </administrativeArea>
+                                    <postalCode>
+                                        <gco:CharacterString>92373-8100</gco:CharacterString>
+                                    </postalCode>
+                                    <country>
+                                        <Country codeList="http://www.iso.org/iso/country_codes/iso_3166_code_lists.htm" codeListValue="US" codeSpace="ISO3166-1">US</Country>
+                                    </country>
+                                    <electronicMailAddress>
+                                        <gco:CharacterString>info@esri.com</gco:CharacterString>
+                                    </electronicMailAddress>
+                                </CI_Address>
+                            </address>
+                        </CI_Contact>
+                    </contactInfo>
+                    <role>
+                        <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact" codeSpace="ISOTC211/19115">pointOfContact</CI_RoleCode>
+                    </role>
+                </CI_ResponsibleParty>
+            </pointOfContact>
+            <resourceMaintenance>
+                <MD_MaintenanceInformation>
+                    <maintenanceAndUpdateFrequency>
+                        <MD_MaintenanceFrequencyCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="annually" codeSpace="ISOTC211/19115">annually</MD_MaintenanceFrequencyCode>
+                    </maintenanceAndUpdateFrequency>
+                </MD_MaintenanceInformation>
+            </resourceMaintenance>
+            <descriptiveKeywords>
+                <MD_Keywords>
+                    <keyword>
+                        <gco:CharacterString>continents</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>world</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>North America</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>South America</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Europe</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Asia</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Africa</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Australia</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Oceania</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>boundaries</gco:CharacterString>
+                    </keyword>
+                </MD_Keywords>
+            </descriptiveKeywords>
+            <descriptiveKeywords>
+                <MD_Keywords>
+                    <keyword>
+                        <gco:CharacterString>continents</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>world</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>North America</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>South America</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Europe</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Asia</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Africa</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Australia</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Oceania</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>boundaries</gco:CharacterString>
+                    </keyword>
+                </MD_Keywords>
+            </descriptiveKeywords>
+            <descriptiveKeywords>
+                <MD_Keywords>
+                    <keyword>
+                        <gco:CharacterString>continents</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>world</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>North America</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>South America</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Europe</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Asia</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Africa</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Australia</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Oceania</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>boundaries</gco:CharacterString>
+                    </keyword>
+                </MD_Keywords>
+            </descriptiveKeywords>
+            <descriptiveKeywords>
+                <MD_Keywords>
+                    <keyword>
+                        <gco:CharacterString>continents</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>world</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>North America</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>South America</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Europe</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Asia</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Africa</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Australia</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Oceania</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>boundaries</gco:CharacterString>
+                    </keyword>
+                </MD_Keywords>
+            </descriptiveKeywords>
+            <descriptiveKeywords>
+                <MD_Keywords>
+                    <keyword>
+                        <gco:CharacterString>continents</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>world</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>North America</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>South America</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Europe</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Asia</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Africa</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Australia</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Oceania</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>boundaries</gco:CharacterString>
+                    </keyword>
+                </MD_Keywords>
+            </descriptiveKeywords>
+            <descriptiveKeywords>
+                <MD_Keywords>
+                    <keyword>
+                        <gco:CharacterString>continents</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>world</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>North America</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>South America</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Europe</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Asia</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Africa</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Australia</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Oceania</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>boundaries</gco:CharacterString>
+                    </keyword>
+                </MD_Keywords>
+            </descriptiveKeywords>
+            <descriptiveKeywords>
+                <MD_Keywords>
+                    <keyword>
+                        <gco:CharacterString>continents</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>world</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>North America</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>South America</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Europe</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Asia</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Africa</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Australia</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Oceania</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>boundaries</gco:CharacterString>
+                    </keyword>
+                </MD_Keywords>
+            </descriptiveKeywords>
+            <descriptiveKeywords>
+                <MD_Keywords>
+                    <keyword>
+                        <gco:CharacterString>continents</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>world</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>North America</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>South America</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Europe</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Asia</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Africa</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Australia</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Oceania</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>boundaries</gco:CharacterString>
+                    </keyword>
+                </MD_Keywords>
+            </descriptiveKeywords>
+            <descriptiveKeywords>
+                <MD_Keywords>
+                    <keyword>
+                        <gco:CharacterString>continents</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>world</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>North America</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>South America</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Europe</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Asia</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Africa</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Australia</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Oceania</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>boundaries</gco:CharacterString>
+                    </keyword>
+                </MD_Keywords>
+            </descriptiveKeywords>
+            <descriptiveKeywords>
+                <MD_Keywords>
+                    <keyword>
+                        <gco:CharacterString>continents</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>world</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>North America</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>South America</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Europe</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Asia</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Africa</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Australia</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Oceania</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>boundaries</gco:CharacterString>
+                    </keyword>
+                </MD_Keywords>
+            </descriptiveKeywords>
+            <resourceConstraints>
+                <MD_Constraints>
+                    <useLimitation>
+                        <gco:CharacterString> This work is licensed under the Esri Master License Agreement.View Summary | View Terms of Use</gco:CharacterString>
+                    </useLimitation>
+                </MD_Constraints>
+            </resourceConstraints>
+            <resourceConstraints>
+                <MD_LegalConstraints>
+                    <accessConstraints>
+                        <MD_RestrictionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_RestrictionCode" codeListValue="license" codeSpace="ISOTC211/19115">license</MD_RestrictionCode>
+                    </accessConstraints>
+                    <useConstraints>
+                        <MD_RestrictionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions" codeSpace="ISOTC211/19115">otherRestrictions</MD_RestrictionCode>
+                    </useConstraints>
+                    <otherConstraints>
+                        <gco:CharacterString>The data are provided by multiple, third party data vendors under license to Esri for inclusion on Data &amp; Maps for ArcGIS® for use with Esri® software.  Each data vendor has its own data licensing policies and may grant varying redistribution rights to end users. Please consult the redistribution rights below for this data set provided on Data &amp; Maps. As used herein, “Geodata” shall mean any digital data set consisting of geographic data coordinates and associated attributes.
+
+The redistribution rights for this data set: Redistribution rights are granted by the data vendor for hard-copy renditions or static, electronic map images (e.g. .gif, .jpeg, etc.) that are plotted, printed, or publicly displayed with proper metadata and source/copyright attribution to the respective data vendor(s).  Geodata is redistributable with a Value-Added Software Application developed by Esri Business Partners on a royalty-free basis with proper metadata and source/copyright attribution to the respective data vendor(s). Geodata is redistributable without a Value-Added Software Application (i.e., adding the sample data to an existing, [non]commercial data set for redistribution) with proper metadata and source/copyright attribution to the respective data vendor(s).
+
+The terms and conditions below apply to all the data sets provided on Data &amp; Maps.
+
+Proprietary Rights and Copyright: Licensee acknowledges that the Data and Related Materials contain proprietary and confidential property of Esri and its licensor(s). The Data and Related Materials are owned by Esri and its licensor(s) and are protected by United States copyright laws and applicable international copyright treaties and/or conventions.
+
+Limited Warranty and Disclaimer: Esri warrants that the media upon which the Data and Related Materials are provided will be free from defects in materials and workmanship under normal use and service for a period of ninety (90) days from the date of receipt.
+
+THE DATA AND RELATED MATERIALS ARE EXCLUDED FROM THE LIMITED WARRANTY, AND THE LICENSEE EXPRESSLY ACKNOWLEDGES THAT THE DATA CONTAINS SOME NONCONFORMITIES, DEFECTS, OR ERRORS. Esri DOES NOT WARRANT THAT THE DATA WILL MEET LICENSEE'S NEEDS OR EXPECTATIONS; THAT THE USE OF THE DATA WILL BE UNINTERRUPTED; OR THAT ALL NONCONFORMITIES, DEFECTS, OR ERRORS CAN OR WILL BE CORRECTED. Esri IS NOT INVITING RELIANCE ON THIS DATA, AND THE LICENSEE SHOULD ALWAYS VERIFY ACTUAL DATA.
+
+EXCEPT FOR THE LIMITED WARRANTY SET FORTH ABOVE, THE DATA AND RELATED MATERIALS CONTAINED THEREIN ARE PROVIDED "AS-IS," WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+HIGH RISK ACTIVITIES: 
+(A) THE DATA AND RELATED MATERIALS ARE NOT FAULT-TOLERANT AND ARE NOT DESIGNED, MANUFACTURED, OR INTENDED FOR USE OR RESALE FOR INSURANCE UNDERWRITING OR WITH CRITICAL HEALTH AND SAFETY OR ONLINE CONTROL EQUIPMENT IN HAZARDOUS ENVIRONMENTS THAT REQUIRE FAIL-SAFE PERFORMANCE, INCLUDING, BUT NOT LIMITED TO THE OPERATION OF NUCLEAR FACILITIES, NAVIGATION OR GUIDANCE (I.E., AIRCRAFT, NAUTICAL VEHICLE, ETC.), OR COMMUNICATION SYSTEMS, AIR TRAFFIC CONTROL, EMERGENCY RESPONSE, TERRORISM PREVENTION OR RESPONSE, LIFE SUPPORT, OR WEAPONS SYSTEMS ("HIGH RISK ACTIVITIES"). Esri SPECIFICALLY DISCLAIMS ANY EXPRESS OR IMPLIED WARRANTY OF FITNESS FOR HIGH RISK ACTIVITIES.
+
+(B) TO THE EXTENT PERMITTED BY LAW, LICENSEE AGREES TO INDEMNIFY, DEFEND, AND HOLD Esri, ITS OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, SUBCONTRACTORS, LICENSORS, SUCCESSORS, AND ASSIGNS HARMLESS FROM AND AGAINST ANY AND ALL LIABILITY, LOSSES, CLAIMS, EXPENSES (INCLUDING ATTORNEYS' FEES), DEMANDS, OR DAMAGES OF ANY KIND, INCLUDING DIRECT, INDIRECT, SPECIAL, PUNITIVE, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, ARISING OUT OF OR IN ANY WAY CONNECTED WITH LICENSEE'S USE OR PERMITTING THE USE BY OTHERS OF THE DATA, AND VENDOR'S HARDWARE OR SOFTWARE FOR HIGH RISK ACTIVITIES. DELIVERY OF THE DATA, AND VENDOR'S HARDWARE OR SOFTWARE DOES NOT CONSTITUTE A WAIVER OF THE RIGHTS AND OBLIGATIONS SET FORTH IN THIS ARTICLE.
+
+Exclusive Remedy and Limitation of Liability: The entire liability of Esri or its licensor(s) and Licensee's exclusive remedy shall be to terminate the Agreement upon Licensee returning the Data and Related Materials to Esri with a copy of Licensee's invoice/receipt and Esri returning the license fees paid to Licensee.
+
+IN NO EVENT SHALL Esri AND/OR ITS LICENSOR(S) BE LIABLE FOR COSTS OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOST PROFITS, LOST SALES, OR BUSINESS EXPENDITURES, INVESTMENTS, OR COMMITMENTS IN CONNECTION WITH ANY BUSINESS; LOSS OF ANY GOODWILL; OR FOR ANY INDIRECT, SPECIAL, INCIDENTAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING OUT OF THIS AGREEMENT OR USE OF THE DATA AND RELATED MATERIALS, HOWEVER CAUSED, ON ANY THEORY OF LIABILITY, AND WHETHER OR NOT Esri OR ITS LICENSOR(S) HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. THESE LIMITATIONS SHALL APPLY NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY EXCLUSIVE REMEDY.
+
+Third Party Beneficiary: Esri's licensor(s) has (have) authorized Esri to (sub)distribute and (sub)license its (their) data as incorporated into the Data and Related Materials. As an intended third party beneficiary to this Agreement, the Esri licensor(s) is (are) entitled to directly enforce, in its own name, the rights and obligations undertaken by the Licensee and to seek all legal and equitable remedies as are afforded to Esri.
+
+In the event that the data vendor(s) has (have) granted the end user permission to redistribute the Geodata, please use proper proprietary or copyright attribution for the various data vendor(s), and provide the associated metadata file(s) with the Geodata. In compliance with FGDC metadata standards, Esri has attempted to practice proper metadata methodologies by providing any data source information, descriptions, and file names to assist in this effort.</gco:CharacterString>
+                    </otherConstraints>
+                </MD_LegalConstraints>
+            </resourceConstraints>
+            <spatialRepresentationType>
+                <MD_SpatialRepresentationTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_SpatialRepresentationTypeCode" codeListValue="vector" codeSpace="ISOTC211/19115">vector</MD_SpatialRepresentationTypeCode>
+            </spatialRepresentationType>
+            <spatialResolution>
+                <MD_Resolution>
+                    <equivalentScale>
+                        <MD_RepresentativeFraction>
+                            <denominator>
+                                <gco:Integer>15000000</gco:Integer>
+                            </denominator>
+                        </MD_RepresentativeFraction>
+                    </equivalentScale>
+                </MD_Resolution>
+            </spatialResolution>
+            <language>
+                <LanguageCode codeList="http://www.loc.gov/standards/iso639-2/php/code_list.php" codeListValue="eng" codeSpace="ISO639-2">eng</LanguageCode>
+            </language>
+            <characterSet>
+                <MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</MD_CharacterSetCode>
+            </characterSet>
+            <topicCategory>
+                <MD_TopicCategoryCode>boundaries</MD_TopicCategoryCode>
+            </topicCategory>
+            <environmentDescription>
+                <gco:CharacterString>Esri ArcCatalog 9.2.2.1350</gco:CharacterString>
+            </environmentDescription>
+            <extent>
+                <EX_Extent/>
+            </extent>
+        </MD_DataIdentification>
+    </identificationInfo>
+    <distributionInfo>
+        <MD_Distribution>
+            <distributor>
+                <MD_Distributor>
+                    <distributorContact>
+                        <CI_ResponsibleParty>
+                            <organisationName>
+                                <gco:CharacterString>Esri; Esri Offices</gco:CharacterString>
+                            </organisationName>
+                            <contactInfo>
+                                <CI_Contact>
+                                    <phone>
+                                        <CI_Telephone>
+                                            <voice>
+                                                <gco:CharacterString>800-447-9778</gco:CharacterString>
+                                            </voice>
+                                        </CI_Telephone>
+                                    </phone>
+                                    <address>
+                                        <CI_Address>
+                                            <deliveryPoint>
+                                                <gco:CharacterString>380 New York Street</gco:CharacterString>
+                                            </deliveryPoint>
+                                            <city>
+                                                <gco:CharacterString>Redlands</gco:CharacterString>
+                                            </city>
+                                            <administrativeArea>
+                                                <gco:CharacterString>California</gco:CharacterString>
+                                            </administrativeArea>
+                                            <postalCode>
+                                                <gco:CharacterString>92373-8100</gco:CharacterString>
+                                            </postalCode>
+                                            <country>
+                                                <Country codeList="http://www.iso.org/iso/country_codes/iso_3166_code_lists.htm" codeListValue="US" codeSpace="ISO3166-1">US</Country>
+                                            </country>
+                                        </CI_Address>
+                                    </address>
+                                </CI_Contact>
+                            </contactInfo>
+                            <role>
+                                <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="distributor" codeSpace="ISOTC211/19115">distributor</CI_RoleCode>
+                            </role>
+                        </CI_ResponsibleParty>
+                    </distributorContact>
+                    <distributionOrderProcess>
+                        <MD_StandardOrderProcess>
+                            <fees>
+                                <gco:CharacterString>Software purchase price. Data &amp; Maps is available only as part of Esri® software. To use this data requires software that supports SDC files.</gco:CharacterString>
+                            </fees>
+                            <orderingInstructions>
+                                <gco:CharacterString>Data &amp; Maps is available only as part of Esri® software.
+
+In the United States, contact the Esri Telebusiness staff at 800-447-9778 for more information about our software and data.
+
+Outside the United States, please direct all inquiries to your local Esri Office.  This information can be found at http://www.esri.com/about-esri/offices.</gco:CharacterString>
+                            </orderingInstructions>
+                        </MD_StandardOrderProcess>
+                    </distributionOrderProcess>
+                    <distributorFormat>
+                        <MD_Format>
+                            <name>
+                                <gco:CharacterString>SDC Feature Database</gco:CharacterString>
+                            </name>
+                            <version gco:nilReason="missing"/>
+                        </MD_Format>
+                    </distributorFormat>
+                    <distributorTransferOptions>
+                        <MD_DigitalTransferOptions>
+                            <transferSize>
+                                <gco:Real>0.879</gco:Real>
+                            </transferSize>
+                            <onLine>
+                                <CI_OnlineResource>
+                                    <linkage>
+                                        <URL>http://www.ArcGIS.com</URL>
+                                    </linkage>
+                                    <description>
+                                        <gco:CharacterString>002</gco:CharacterString>
+                                    </description>
+                                    <function>
+                                        <CI_OnLineFunctionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download" codeSpace="ISOTC211/19115">download</CI_OnLineFunctionCode>
+                                    </function>
+                                </CI_OnlineResource>
+                            </onLine>
+                            <offLine>
+                                <MD_Medium>
+                                    <name>
+                                        <MD_MediumNameCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_MediumNameCode" codeListValue="dvdRom" codeSpace="ISOTC211/19115">dvdRom</MD_MediumNameCode>
+                                    </name>
+                                </MD_Medium>
+                            </offLine>
+                        </MD_DigitalTransferOptions>
+                    </distributorTransferOptions>
+                </MD_Distributor>
+            </distributor>
+        </MD_Distribution>
+    </distributionInfo>
+    <dataQualityInfo>
+        <DQ_DataQuality>
+            <scope>
+                <DQ_Scope>
+                    <level>
+                        <MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="ISOTC211/19115">dataset</MD_ScopeCode>
+                    </level>
+                </DQ_Scope>
+            </scope>
+            <lineage>
+                <LI_Lineage>
+                    <statement>
+                        <gco:CharacterString>ArcWorld Supplement (source 1 of 3) 
+
+Esri, 1996, ArcWorld™ Supplement: Esri, Redlands, California, USA. 
+
+Type of source media: CD–ROM
+Source scale denominator: 3000000
+Source contribution:
+Attribute and geospatial data
+
+
+GMI (source 2 of 3) 
+
+Global Mapping International, Missions Database: Global Mapping International, Colorado Springs, Colorado, USA. 
+
+Type of source media: CD–ROM
+Source contribution:
+Attribute data
+
+
+CIA Factbook (source 3 of 3) 
+
+United States Central Intelligence Agency, 200703, The World Factbook 2007: The World Factbook 2007, United States Central Intelligence Agency, Washington, DC, USA. 
+
+Online links: 
+http://www.cia.gov/cia/publications/factbook/index.html 
+
+Other citation details: 
+The online Factbook is updated periodically throughout the year.
+
+Type of source media: online
+Source contribution:
+Attribute and geospatial data
+
+
+Date: 20010111 (change 1 of 5) 
+The following steps were performed by Esri: Extracted the features from Esri® Data &amp; Maps 1999 data set-admin98.shp.  Updated political boundaries for countries and first-level administrative units.  Used Continent attribute to dissolve out the necessary features to create the continents. Removed unnecessary attributes. Created ArcGIS® layer file (.lyr).  Created projection file (.prj).  Created spatial indices. Converted the data set to SDC.
+
+Data sources used in this process: 
+ArcWorld Supplement 
+GMI 
+
+
+Date: 20040307 (change 2 of 5) 
+The following steps were performed by Esri: Added SQKM attribute and calculated its values. Added SQMI attribute and calculated its values.
+
+
+Date: 20050211 (change 3 of 5) 
+The following steps were performed by Esri: Removed the Paracel and Spratly island groups.
+
+
+Date: 20060324 (change 4 of 5) 
+The following steps were performed by Esri: Corrected the east and south geographic extents. Converted the data set to SDC.
+
+
+Date: 20070322 (change 5 of 5) 
+The following steps were performed by Esri: Removed an area in the Netherlands where land was in the process of being reclaimed from the sea but was never completed.
+
+Data sources used in this process: 
+CIA Factbook </gco:CharacterString>
+                    </statement>
+                </LI_Lineage>
+            </lineage>
+        </DQ_DataQuality>
+    </dataQualityInfo>
+</MD_Metadata>
