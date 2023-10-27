@@ -1,0 +1,492 @@
+OBJECTID	ID	NAME	ALT_NAME	CROSS_ST	LONG_NAME	LABEL	BOROUGH	NGHBHD	ROUTES	TRANSFERS	COLOR	EXPRESS	CLOSED
+1	376.0000000000	Cortlandt St		Church St	"Cortlandt St (R,W) Manhattan"	"Cortlandt St (R,W)"	Manhattan		"R,W"	"R,W"	YELLOW		
+2	2.0000000000	Rector St			Rector St (1) Manhattan	Rector St (1)	Manhattan		"1"	"1"	RED		
+3	1.0000000000	South Ferry			South Ferry (1) Manhattan	South Ferry (1)	Manhattan		"1"	"1"	RED		
+4	125.0000000000	138th St	Grand Concourse	Grand Concourse	"138th St / Grand Concourse (4,5) Bronx"	"138th St / Grand Concourse (4,5)"	Bronx		"4,5"	"4,5"	GREEN		
+5	126.0000000000	149th St	Grand Concourse	Grand Concourse	149th St / Grand Concourse (4) Bronx	149th St / Grand Concourse (4)	Bronx		"4"	"2,4,5"	GREEN	express	
+6	45.0000000000	149th St	Grand Concourse	Grand Concourse	"149th St / Grand Concourse (2,5) Bronx"	"149th St / Grand Concourse (2,5)"	Bronx		"2,5"	"2,4,5"	RED-GREEN	express	
+7	127.0000000000	161st St	Yankee Stadium	River Ave	"161st St / Yankee Stadium (B,D,4) Bronx"	"161st St / Yankee Stadium (B,D,4)"	Bronx		"B,D,4"	"B,D,4"	GREEN-ORANGE		
+8	208.0000000000	167th St		Grand Concourse	"167th St (B,D) Bronx"	"167th St (B,D)"	Bronx		"B,D"	"B,D"	ORANGE		
+9	128.0000000000	167th St		River Ave	167th St (4) Bronx	167th St (4)	Bronx		"4"	"4"	GREEN		
+10	209.0000000000	170th St		Grand Concourse	"170th St (B,D) Bronx"	"170th St (B,D)"	Bronx		"B,D"	"B,D"	ORANGE		
+11	129.0000000000	170th St		Jerome Ave	170th St (4) Bronx	170th St (4)	Bronx		"4"	"4"	GREEN		
+12	52.0000000000	174th St		Southern Blvd	"174th St (2,5) Bronx"	"174th St (2,5)"	Bronx		"2,5"	"2,5"	RED-GREEN		
+13	210.0000000000	174th St	175th St	Grand Concourse	"174th St / 175th St (B,D) Bronx"	"174th St / 175th St (B,D)"	Bronx		"B,D"	"B,D"	ORANGE		
+14	131.0000000000	176th St		Jerome Ave	176th St (4) Bronx	176th St (4)	Bronx		"4"	"4"	GREEN		
+15	212.0000000000	182nd St	183rd St	Grand Concourse	"182nd St / 183rd St (B,D) Bronx"	"182nd St / 183rd St (B,D)"	Bronx		"B,D"	"B,D"	ORANGE		
+16	133.0000000000	183rd St		Jerome Ave	183rd St (4) Bronx	183rd St (4)	Bronx		"4"	"4"	GREEN		
+17	216.0000000000	205th St	Norwood	Bainbridge Ave	205th St / Norwood (D) Bronx	205th St / Norwood (D)	Bronx		D	D	ORANGE		
+18	60.0000000000	219th St		White Plains Rd	"219th St (2,5) Bronx"	"219th St (2,5)"	Bronx		"2,5"	"2,5"	RED-GREEN		
+19	61.0000000000	225th St		White Plains Rd	"225th St (2,5) Bronx"	"225th St (2,5)"	Bronx		"2,5"	"2,5"	RED-GREEN		
+20	36.0000000000	231st St		Broadway	231st St (1) Bronx	231st St (1)	Bronx		"1"	"1"	RED		
+21	62.0000000000	233rd St		White Plains Rd	"233rd St (2,5) Bronx"	"233rd St (2,5)"	Bronx		"2,5"	"2,5"	RED-GREEN		
+22	37.0000000000	238th St		Broadway	238th St (1) Bronx	238th St (1)	Bronx		"1"	"1"	RED		
+23	64.0000000000	241st St	Wakefield	White Plains Rd	241st St / Wakefield (2) Bronx	241st St / Wakefield (2)	Bronx		"2"	"2"	RED		
+24	38.0000000000	242nd St	Van Cortlandt Park	Broadway	242nd St (1) Bronx	242nd St (1)	Bronx		"1"	"1"	RED		
+25	296.0000000000	W 4th St		6th Ave	"W 4th St (B,D,F,V) Manhattan"	"W 4th St (B,D,F,V)"	Manhattan		"B,D,F,V"	"A,B,C,D,E,F,V"	ORANGE	express	
+26	139.0000000000	3rd Ave	138th St	138th St	3rd Ave / 138th St (6) Bronx	3rd Ave / 138th St (6)	Bronx		"6"	"6"	GREEN	express	
+27	46.0000000000	3rd Ave	149th St	149th St	"3rd Ave / 149th St (2,5) Bronx"	"3rd Ave / 149th St (2,5)"	Bronx		"2,5"	"2,5"	RED-GREEN	express	
+28	57.0000000000	Allerton Ave		White Plains Rd	"Allerton Ave (2,5) Bronx"	"Allerton Ave (2,5)"	Bronx		"2,5"	"2,5"	RED-GREEN		
+29	68.0000000000	Baychester Ave		Tillotson Ave	Baychester Ave (5) Bronx	Baychester Ave (5)	Bronx		"5"	"5"	GREEN		
+30	215.0000000000	Bedford Park Blvd		Grand Concourse	"Bedford Park Blvd (B,D) Bronx"	"Bedford Park Blvd (B,D)"	Bronx		"B,D"	"B,D"	ORANGE		
+31	136.0000000000	Bedford Park Blvd	Lehman College	Jerome Ave	Bedford Park Blvd / Lehman College (4) Bronx	Bedford Park Blvd / Lehman College (4)	Bronx		"4"	"4"	GREEN		
+32	55.0000000000	Bronx Park East		White Plains Rd	"Bronx Park East (2,5) Bronx"	"Bronx Park East (2,5)"	Bronx		"2,5"	"2,5"	RED-GREEN		
+33	140.0000000000	Brook Ave		E 138th St	Brook Ave (6) Bronx	Brook Ave (6)	Bronx		"6"	"6"	GREEN		
+34	155.0000000000	Buhre Ave		Westchester Ave	Buhre Ave (6) Bronx	Buhre Ave (6)	Bronx		"6"	"6"	GREEN		
+35	58.0000000000	Burke Ave		White Plains Rd	"Burke Ave (2,5) Bronx"	"Burke Ave (2,5)"	Bronx		"2,5"	"2,5"	RED-GREEN		
+36	132.0000000000	Burnside Ave		Jerome Ave	Burnside Ave (4) Bronx	Burnside Ave (4)	Bronx		"4"	"4"	GREEN		
+37	151.0000000000	Castle Hill Ave		Westchester Ave	Castle Hill Ave (6) Bronx	Castle Hill Ave (6)	Bronx		"6"	"6"	GREEN		
+38	141.0000000000	Cypress Ave		E 138th St	Cypress Ave (6) Bronx	Cypress Ave (6)	Bronx		"6"	"6"	GREEN		
+39	69.0000000000	Dyre Ave	Eastchester	233rd St	Dyre Ave / Eastchester (5) Bronx	Dyre Ave / Eastchester (5)	Bronx		"5"	"5"	GREEN		
+40	142.0000000000	E 143rd St	St Mary's St	Southern Blvd	E 143rd St / St Mary's St (6) Bronx	E 143rd St / St Mary's St (6)	Bronx		"6"	"6"	GREEN		
+41	143.0000000000	E 149th St		Southern Blvd	E 149th St (6) Bronx	E 149th St (6)	Bronx		"6"	"6"	GREEN		
+42	150.0000000000	E 177th St	Parkchester	Westchester Ave	E 177th St / Parkchester (6) Bronx	E 177th St / Parkchester (6)	Bronx		"6"	"6"	GREEN	express	
+43	54.0000000000	E 180th St		Morris Park Ave	"E 180th St (2,5) Bronx"	"E 180th St (2,5)"	Bronx		"2,5"	"2,5"	RED-GREEN	express	
+44	53.0000000000	E Tremont Ave	West Farms Sq	Boston Rd	"E Tremont Ave / West Farms Sq (2,5) Bronx"	"E Tremont Ave / West Farms Sq (2,5)"	Bronx		"2,5"	"2,5"	RED-GREEN		
+45	147.0000000000	Elder Ave		Westchester Ave	Elder Ave (6) Bronx	Elder Ave (6)	Bronx		"6"	"6"	GREEN		
+46	213.0000000000	Fordham Rd		Grand Concourse	"Fordham Rd (B,D) Bronx"	"Fordham Rd (B,D)"	Bronx		"B,D"	"B,D"	ORANGE	express	
+47	134.0000000000	Fordham Rd		Jerome Ave	Fordham Rd (4) Bronx	Fordham Rd (4)	Bronx		"4"	"4"	GREEN		
+48	51.0000000000	Freeman St		Southern Blvd	"Freeman St (2,5) Bronx"	"Freeman St (2,5)"	Bronx		"2,5"	"2,5"	RED-GREEN		
+49	67.0000000000	Gun Hill Rd		Seymour Ave	Gun Hill Rd (5) Bronx	Gun Hill Rd (5)	Bronx		"5"	"5"	GREEN		
+50	59.0000000000	Gun Hill Rd		White Plains Rd	"Gun Hill Rd (2,5) Bronx"	"Gun Hill Rd (2,5)"	Bronx		"2,5"	"2,5"	RED-GREEN		
+51	145.0000000000	Hunts Point Ave		Southern Blvd	Hunts Point Ave (6) Bronx	Hunts Point Ave (6)	Bronx		"6"	"6"	GREEN	express	
+52	49.0000000000	Intervale Ave		Westchester Ave	"Intervale Ave (2,5) Bronx"	"Intervale Ave (2,5)"	Bronx		"2,5"	"2,5"	RED-GREEN		
+53	47.0000000000	Jackson Ave		Westchester Ave	"Jackson Ave (2,5) Bronx"	"Jackson Ave (2,5)"	Bronx		"2,5"	"2,5"	RED-GREEN		
+54	214.0000000000	Kingsbridge Rd		Grand Concourse	"Kingsbridge Rd (B,D) Bronx"	"Kingsbridge Rd (B,D)"	Bronx		"B,D"	"B,D"	ORANGE		
+55	135.0000000000	Kingsbridge Rd		Jerome Ave	Kingsbridge Rd (4) Bronx	Kingsbridge Rd (4)	Bronx		"4"	"4"	GREEN		
+56	144.0000000000	Longwood Ave		Southern Blvd	Longwood Ave (6) Bronx	Longwood Ave (6)	Bronx		"6"	"6"	GREEN		
+57	154.0000000000	Middletown Rd		Westchester Ave	Middletown Rd (6) Bronx	Middletown Rd (6)	Bronx		"6"	"6"	GREEN		
+58	65.0000000000	Morris Park		Esplanade	Morris Park (5) Bronx	Morris Park (5)	Bronx		"5"	"5"	GREEN		
+59	148.0000000000	Sound View Ave	Morrison Ave	Westchester Ave	Sound View Ave / Morrison Ave (6) Bronx	Sound View Ave / Morrison Ave (6)	Bronx		"6"	"6"	GREEN		
+60	137.0000000000	Mosholu Pky		Jerome Ave	Mosholu Pky (4) Bronx	Mosholu Pky (4)	Bronx		"4"	"4"	GREEN		
+61	130.0000000000	Mt Eden Ave		Jerome Ave	Mt Eden Ave (4) Bronx	Mt Eden Ave (4)	Bronx		"4"	"4"	GREEN		
+62	63.0000000000	Nereid Ave	238th St	White Plains Rd	"Nereid Ave / 238th St (2,5) Bronx"	"Nereid Ave / 238th St (2,5)"	Bronx		"2,5"	"2,5"	RED-GREEN		
+63	156.0000000000	Pelham Bay Park		Bruckner Exy	Pelham Bay Park (6) Bronx	Pelham Bay Park (6)	Bronx		"6"	"6"	GREEN		
+64	66.0000000000	Pelham Pky		Williamsbridge Rd	Pelham Pky (5) Bronx	Pelham Pky (5)	Bronx		"5"	"5"	GREEN		
+65	56.0000000000	Pelham Pky		White Plains Rd	"Pelham Pky (2,5) Bronx"	"Pelham Pky (2,5)"	Bronx		"2,5"	"2,5"	RED-GREEN		
+66	48.0000000000	Prospect Ave		Westchester Ave	"Prospect Ave (2,5) Bronx"	"Prospect Ave (2,5)"	Bronx		"2,5"	"2,5"	RED-GREEN		
+67	50.0000000000	Simpson St		Westchester Ave	"Simpson St (2,5) Bronx"	"Simpson St (2,5)"	Bronx		"2,5"	"2,5"	RED-GREEN		
+68	149.0000000000	St Lawrence Ave		Westchester Ave	St Lawrence Ave (6) Bronx	St Lawrence Ave (6)	Bronx		"6"	"6"	GREEN		
+69	211.0000000000	Tremont Ave		Grand Concourse	"Tremont Ave (B,D) Bronx"	"Tremont Ave (B,D)"	Bronx		"B,D"	"B,D"	ORANGE	express	
+70	153.0000000000	Westchester Sq	E Tremont Ave	Westchester Ave	Westchester Sq / E Tremont Ave (6) Bronx	Westchester Sq / E Tremont Ave (6)	Bronx		"6"	"6"	GREEN		
+71	146.0000000000	Whitlock Ave		Westchester Ave	Whitlock Ave (6) Bronx	Whitlock Ave (6)	Bronx		"6"	"6"	GREEN		
+72	138.0000000000	Woodlawn		Jerome Ave	Woodlawn (4) Bronx	Woodlawn (4)	Bronx		"4"	"4"	GREEN		
+73	152.0000000000	Zerega Ave		Westchester Ave	Zerega Ave (6) Bronx	Zerega Ave (6)	Bronx		"6"	"6"	GREEN		
+74	344.0000000000	15th St	Prospect Park	Prospect Park West	15th St / Prospect Park (F) Brooklyn	15th St / Prospect Park (F)	Brooklyn		F	F	ORANGE		
+75	422.0000000000	18th Ave		New Utrecht Ave	"18th Ave (D,M) Brooklyn"	"18th Ave (D,M)"	Brooklyn		"D,M"	"D,M"	BROWN-ORANGE		
+76	430.0000000000	18th Ave		64th St	18th Ave (N) Brooklyn	18th Ave (N)	Brooklyn		N	N	YELLOW		
+77	348.0000000000	18th Ave		McDonald Ave	18th Ave (F) Brooklyn	18th Ave (F)	Brooklyn		F	F	ORANGE		
+78	431.0000000000	20th Ave		64th St	20th Ave (N) Brooklyn	20th Ave (N)	Brooklyn		N	N	YELLOW		
+79	423.0000000000	20th Ave		86th St	"20th Ave (D,M) Brooklyn"	"20th Ave (D,M)"	Brooklyn		"D,M"	"D,M"	BROWN-ORANGE		
+80	425.0000000000	25th Ave		86th St	25th Ave (D) Brooklyn	25th Ave (D)	Brooklyn		D	D	ORANGE		
+81	406.0000000000	25th St		4th Ave	"25th St (M,R) Brooklyn"	"25th St (M,R)"	Brooklyn		"M,R"	"M,R"	BROWN-YELLOW		
+82	407.0000000000	36th St		4th Ave	"36th St (D,M,N,R) Brooklyn"	"36th St (D,M,N,R)"	Brooklyn		"D,M,N,R"	"D,M,N,R"	BROWN-ORANGE-YELLOW	express	
+83	408.0000000000	45th St		4th Ave	45th St (R) Brooklyn	45th St (R)	Brooklyn		R	R	YELLOW		
+84	342.0000000000	4th Ave	9th St	9th St	4th Ave / 9th St (F) Brooklyn	4th Ave / 9th St (F)	Brooklyn		F	"D,F,M,R"	ORANGE		
+85	417.0000000000	50th St		New Utrecht Ave	"50th St (D,M) Brooklyn"	"50th St (D,M)"	Brooklyn		"D,M"	"D,M"	BROWN-ORANGE		
+86	409.0000000000	53rd St		4th Ave	53rd St (R) Brooklyn	53rd St (R)	Brooklyn		R	R	YELLOW		
+87	418.0000000000	55th St		New Utrecht Ave	"55th St (D,M) Brooklyn"	"55th St (D,M)"	Brooklyn		"D,M"	"D,M"	BROWN-ORANGE		
+88	410.0000000000	59th St		4th Ave	"59th St (N,R) Brooklyn"	"59th St (N,R)"	Brooklyn		"N,R"	"N,R"	YELLOW	express	
+89	419.0000000000	62nd St	New Utrecht Ave	New Utrecht Ave	"62nd St / New Utrecht Ave (M,D) Brooklyn"	"62nd St / New Utrecht Ave (M,D)"	Brooklyn		"M,D"	"D,M,N"	BROWN-ORANGE		
+90	420.0000000000	71st St		New Utrecht Ave	"71st St (D,M) Brooklyn"	"71st St (D,M)"	Brooklyn		"D,M"	"D,M"	BROWN-ORANGE		
+91	412.0000000000	77th St		4th Ave	77th St (R) Brooklyn	77th St (R)	Brooklyn		R	R	YELLOW		
+92	421.0000000000	79th St		New Utrecht Ave	"79th St (D,M) Brooklyn"	"79th St (D,M)"	Brooklyn		"D,M"	"D,M"	BROWN-ORANGE		
+93	384.0000000000	7th Ave		Flatbush Ave	"7th Ave (B,Q) Brooklyn"	"7th Ave (B,Q)"	Brooklyn		"B,Q"	"B,Q"	ORANGE-YELLOW	express	
+94	343.0000000000	7th Ave		9th St	7th Ave (F) Brooklyn	7th Ave (F)	Brooklyn		F	F	ORANGE		
+95	435.0000000000	86th St	Gravesend	W 7th St	86th St / Gravesend (N) Brooklyn	86th St / Gravesend (N)	Brooklyn		N	N	YELLOW		
+96	413.0000000000	86th St		4th Ave	86th St (R) Brooklyn	86th St (R)	Brooklyn		R	R	YELLOW		
+97	427.0000000000	8th Ave		62nd St	8th Ave (N) Brooklyn	8th Ave (N)	Brooklyn		N	N	YELLOW		
+98	414.0000000000	95th St	Bay Ridge	4th Ave	95th St / Bay Ridge (R) Brooklyn	95th St / Bay Ridge (R)	Brooklyn		R	R	YELLOW		
+99	415.0000000000	9th Ave		39th St	"9th Ave (D,M) Brooklyn"	"9th Ave (D,M)"	Brooklyn		"D,M"	"D,M"	BROWN-ORANGE		
+100	404.0000000000	9th St	4th Ave	4th Ave	"9th St / 4th Ave (M,R) Brooklyn"	"9th St / 4th Ave (M,R)"	Brooklyn		"M,R"	"F,M,R"	BROWN-YELLOW		
+101	320.0000000000	Alabama Ave		Fulton St	Alabama Ave (J) Brooklyn	Alabama Ave (J)	Brooklyn		J	J	BROWN		
+102	383.0000000000	Atlantic Ave	Brooklyn Academy of Music	Flatbush Ave	"Atlantic Ave / Brooklyn Academy of Music (B,Q) Brooklyn"	"Atlantic Ave / Brooklyn Academy of Music (B,Q)"	Brooklyn		"B,Q"	"B,D,M,N,Q,R,2,3,4,5"	ORANGE-YELLOW	express	
+103	457.0000000000	Atlantic Ave		Snediker Ave	Atlantic Ave (L) Brooklyn	Atlantic Ave (L)	Brooklyn		L	L	GREY		
+104	77.0000000000	Atlantic Ave	Brooklyn Academy of Music	Flatbush Ave	"Atlantic Ave / Brooklyn Academy of Music (2,3,4,5) Brooklyn"	"Atlantic Ave / Brooklyn Academy of Music (2,3,4,5)"	Brooklyn		"2,3,4,5"	"B,D,M,N,Q,R,2,3,4,5"	GREEN-RED	express	
+105	391.0000000000	Ave H		E 16th St	Ave H (Q) Brooklyn	Ave H (Q)	Brooklyn		Q	Q	YELLOW		
+106	349.0000000000	Ave I		McDonald Ave	Ave I (F) Brooklyn	Ave I (F)	Brooklyn		F	F	ORANGE		
+107	392.0000000000	Ave J		E 16th St	Ave J (Q) Brooklyn	Ave J (Q)	Brooklyn		Q	Q	YELLOW		
+108	393.0000000000	Ave M		E 16th St	Ave M (Q) Brooklyn	Ave M (Q)	Brooklyn		Q	Q	YELLOW		
+109	351.0000000000	Ave N		McDonald Ave	Ave N (F) Brooklyn	Ave N (F)	Brooklyn		F	F	ORANGE		
+110	352.0000000000	Ave P		McDonald Ave	Ave P (F) Brooklyn	Ave P (F)	Brooklyn		F	F	ORANGE		
+111	395.0000000000	Ave U		E 16th St	Ave U (Q) Brooklyn	Ave U (Q)	Brooklyn		Q	Q	YELLOW		
+112	434.0000000000	Ave U		W 7th St	Ave U (N) Brooklyn	Ave U (N)	Brooklyn		N	N	YELLOW		
+113	354.0000000000	Ave U		McDonald Ave	Ave U (F) Brooklyn	Ave U (F)	Brooklyn		F	F	ORANGE		
+114	355.0000000000	Ave X		McDonald Ave	Ave X (F) Brooklyn	Ave X (F)	Brooklyn		F	F	ORANGE		
+115	426.0000000000	Bay 50th St		Stillwell Ave	Bay 50th St (D) Brooklyn	Bay 50th St (D)	Brooklyn		D	D	ORANGE		
+116	424.0000000000	Bay Pky		86th St	"Bay Pky (D,M) Brooklyn"	"Bay Pky (D,M)"	Brooklyn		"D,M"	"D,M"	BROWN-ORANGE		
+117	432.0000000000	Bay Pky		W 7th St/Ave	Bay Pky (N) Brooklyn	Bay Pky (N)	Brooklyn		N	N	YELLOW		
+118	350.0000000000	Bay Pky		McDonald Ave	Bay Pky (F) Brooklyn	Bay Pky (F)	Brooklyn		F	F	ORANGE		
+119	411.0000000000	Bay Ridge Ave		4th Ave	Bay Ridge Ave (R) Brooklyn	Bay Ridge Ave (R)	Brooklyn		R	R	YELLOW		
+120	444.0000000000	Bedford Ave		N 7th St	Bedford Ave (L) Brooklyn	Bedford Ave (L)	Brooklyn		L	L	GREY		
+121	282.0000000000	Bedford Ave	Nostrand Ave	Lafayette Ave	Bedford Ave / Nostrand Ave (G) Brooklyn	Bedford Ave / Nostrand Ave (G)	Brooklyn		G	G	LIME		
+122	339.0000000000	Bergen St		Smith St	"Bergen St (F,G) Brooklyn"	"Bergen St (F,G)"	Brooklyn		"F,G"	"F,G"	ORANGE-LIME		
+123	78.0000000000	Bergen St		Flatbush Ave	"Bergen St (2,3) Brooklyn"	"Bergen St (2,3)"	Brooklyn		"2,3"	"2,3"	RED-GREEN		
+124	388.0000000000	Beverly Rd		E 16th St	Beverly Rd (Q) Brooklyn	Beverly Rd (Q)	Brooklyn		Q	Q	YELLOW		
+125	96.0000000000	Beverly Rd		Nostrand Ave	"Beverly Rd (2,5) Brooklyn"	"Beverly Rd (2,5)"	Brooklyn		"2,5"	"2,5"	RED-GREEN		
+126	101.0000000000	Borough Hall	Court St	Joralemon St	"Borough Hall / Court St (4,5) Brooklyn"	"Borough Hall / Court St (4,5)"	Brooklyn		"4,5"	"M,R,2,3,4,5"	GREEN	express	
+127	74.0000000000	Borough Hall	Court St	Court St	"Borough Hall / Court St (2,3) Brooklyn"	"Borough Hall / Court St (2,3)"	Brooklyn		"2,3"	"M,R,2,3,4,5"	RED	express	
+128	436.0000000000	Botanic Garden		Eastern Pky	Botanic Garden (S) Brooklyn	Botanic Garden (S)	Brooklyn		S	"S,2,3,4,5"	GREY		
+129	398.0000000000	Brighton Beach		Brighton 6 St	"Brighton Beach (B,Q) Brooklyn"	"Brighton Beach (B,Q)"	Brooklyn		"B,Q"	"B,Q"	ORANGE-YELLOW	express	
+130	285.0000000000	Broadway		Union Ave	Broadway (G) Brooklyn	Broadway (G)	Brooklyn		G	G	LIME		
+131	456.0000000000	Broadway Jct	Eastern Pky	Eastern Pky	"Broadway Jct / Eastern Pky (J,Z) Brooklyn"	"Broadway Jct / Eastern Pky (J,Z)"	Brooklyn		"J,Z"	"A,C,J,L,Z"	BROWN	express	
+132	230.0000000000	Broadway Jct	E New York	Fulton St	"Broadway Jct / E New York (A,C) Brooklyn"	"Broadway Jct / E New York (A,C)"	Brooklyn		"A,C"	"A,C,J,L,Z"	BLUE	express	
+133	455.0000000000	Bushwick Ave	Aberdeen St	Aberdeen St	Bushwick Ave / Aberdeen St (L) Brooklyn	Bushwick Ave / Aberdeen St (L)	Brooklyn		L	L	GREY		
+134	340.0000000000	Carroll St		Smith St	"Carroll St (F,G) Brooklyn"	"Carroll St (F,G)"	Brooklyn		"F,G"	"F,G"	ORANGE-LIME		
+135	332.0000000000	Central Ave		Myrtle Ave	Central Ave (M) Brooklyn	Central Ave (M)	Brooklyn		M	M	BROWN		
+136	318.0000000000	Chauncey St		Broadway	"Chauncey St (J,Z) Brooklyn"	"Chauncey St (J,Z)"	Brooklyn		"J,Z"	"J,Z"	BROWN		
+137	346.0000000000	Church Ave		McDonald Ave	Church Ave (F) Brooklyn	Church Ave (F)	Brooklyn		F	F	ORANGE		
+138	387.0000000000	Church Ave		E 18th St	"Church Ave (B,Q) Brooklyn"	"Church Ave (B,Q)"	Brooklyn		"B,Q"	"B,Q"	ORANGE-YELLOW	express	
+139	95.0000000000	Church Ave		Nostrand Ave	"Church Ave (2,5) Brooklyn"	"Church Ave (2,5)"	Brooklyn		"2,5"	"2,5"	RED-GREEN		
+140	73.0000000000	Clark St		Henry St	"Clark St (2,3) Brooklyn"	"Clark St (2,3)"	Brooklyn		"2,3"	"2,3"	RED	express	
+141	281.0000000000	Classon Ave		Lafayette Ave	Classon Ave (G) Brooklyn	Classon Ave (G)	Brooklyn		G	G	LIME		
+142	322.0000000000	Cleveland St		Fulton St	Cleveland St (J) Brooklyn	Cleveland St (J)	Brooklyn		J	J	BROWN		
+143	280.0000000000	Clinton Ave	Washington Ave	Lafayette Ave	Clinton Ave / Washington Ave (G) Brooklyn	Clinton Ave / Washington Ave (G)	Brooklyn		G	G	LIME		
+144	223.0000000000	Clinton Ave	Washington Ave	Fulton St	Clinton Ave / Washington Ave (C) Brooklyn	Clinton Ave / Washington Ave (C)	Brooklyn		C	C	BLUE		
+145	389.0000000000	Cortelyou Rd		E 16th St	Cortelyou Rd (Q) Brooklyn	Cortelyou Rd (Q)	Brooklyn		Q	Q	YELLOW		
+146	379.0000000000	Court St	Borough Hall	Montague St	"Court St / Borough Hall (M,R) Brooklyn"	"Court St / Borough Hall (M,R)"	Brooklyn		"M,R"	"M,R,2,3,4,5"	BROWN-YELLOW		
+147	324.0000000000	Crescent St		Fulton St	"Crescent St (J,Z) Brooklyn"	"Crescent St (J,Z)"	Brooklyn		"J,Z"	"J,Z"	BROWN	express	
+148	325.0000000000	Cypress Hills		Jamaica Ave	Cypress Hills (J) Brooklyn	Cypress Hills (J)	Brooklyn		J	J	BROWN		
+149	451.0000000000	DeKalb Ave		Wyckoff Ave	DeKalb Ave (L) Brooklyn	DeKalb Ave (L)	Brooklyn		L	L	GREY		
+150	382.0000000000	DeKalb Ave		Flatbush Ave	"DeKalb Ave (B,M,Q,R) Brooklyn"	"DeKalb Ave (B,M,Q,R)"	Brooklyn		"B,M,Q,R"	"B,M,Q,R"	MULTI	express	
+151	347.0000000000	Ditmas Ave		McDonald Ave	Ditmas Ave (F) Brooklyn	Ditmas Ave (F)	Brooklyn		F	F	ORANGE		
+152	461.0000000000	E 105th St		Turnbull Ave	E 105th St (L) Brooklyn	E 105th St (L)	Brooklyn		L	L	GREY		
+153	80.0000000000	Eastern Pky	Brooklyn Museum	Washington Ave	"Eastern Pky / Brooklyn Museum (2,3) Brooklyn"	"Eastern Pky / Brooklyn Museum (2,3)"	Brooklyn		"2,3"	"2,3"	RED-GREEN		
+154	234.0000000000	Euclid Ave		Pitkin Ave	"Euclid Ave (A,C) Brooklyn"	"Euclid Ave (A,C)"	Brooklyn		"A,C"	"A,C"	BLUE	express	
+155	98.0000000000	Flatbush Ave	Brooklyn College	Nostrand Ave	"Flatbush Ave / Brooklyn College (2,5) Brooklyn"	"Flatbush Ave / Brooklyn College (2,5)"	Brooklyn		"2,5"	"2,5"	RED-GREEN		
+156	313.0000000000	Flushing Ave		Broadway	"Flushing Ave (J,M) Brooklyn"	"Flushing Ave (J,M)"	Brooklyn		"J,M"	"J,M"	BROWN		
+157	284.0000000000	Flushing Ave		Marcy Ave	Flushing Ave (G) Brooklyn	Flushing Ave (G)	Brooklyn		G	G	LIME		
+158	345.0000000000	Fort Hamilton Pky		Prospect Ave	Fort Hamilton Pky (F) Brooklyn	Fort Hamilton Pky (F)	Brooklyn		F	F	ORANGE		
+159	224.0000000000	Franklin Ave		Fulton St	Franklin Ave (C) Brooklyn	Franklin Ave (C)	Brooklyn		C	"C,S"	BLUE		
+160	438.0000000000	Franklin Ave		Fulton St	Franklin Ave (S) Brooklyn	Franklin Ave (S)	Brooklyn		S	"C,S"	GREY		
+161	81.0000000000	Franklin Ave		Eastern Pky	"Franklin Ave (2,3,4,5) Brooklyn"	"Franklin Ave (2,3,4,5)"	Brooklyn		"2,3,4,5"	"S,2,3,4,5"	GREEN-RED	express	
+162	428.0000000000	Ft Hamilton Pky		62nd St	Ft Hamilton Pky (N) Brooklyn	Ft Hamilton Pky (N)	Brooklyn		N	N	YELLOW		
+163	416.0000000000	Ft Hamilton Pky		New Utrecht Ave	"Ft Hamilton Pky (D,M) Brooklyn"	"Ft Hamilton Pky (D,M)"	Brooklyn		"D,M"	"D,M"	BROWN-ORANGE		
+164	279.0000000000	Fulton St		Lafayette Ave	Fulton St (G) Brooklyn	Fulton St (G)	Brooklyn		G	G	LIME		
+165	316.0000000000	Gates St		Broadway	"Gates St (J,Z) Brooklyn"	"Gates St (J,Z)"	Brooklyn		"J,Z"	"J,Z"	BROWN		
+166	446.0000000000	Graham Ave		Metropolitan Ave	Graham Ave (L) Brooklyn	Graham Ave (L)	Brooklyn		L	L	GREY		
+167	79.0000000000	Grand Army Plz		Flatbush Ave	"Grand Army Plz (2,3) Brooklyn"	"Grand Army Plz (2,3)"	Brooklyn		"2,3"	"2,3"	RED-GREEN		
+168	447.0000000000	Grand St		Bushwick Ave	Grand St (L) Brooklyn	Grand St (L)	Brooklyn		L	L	GREY		
+169	235.0000000000	Grant Ave		Pitkin Ave	Grant Ave (A) Brooklyn	Grant Ave (A)	Brooklyn		A	A	BLUE		
+170	288.0000000000	Greenpoint Ave		Manhattan Ave	Greenpoint Ave (G) Brooklyn	Greenpoint Ave (G)	Brooklyn		G	G	LIME		
+171	453.0000000000	Halsey St		Wyckoff Ave	Halsey St (L) Brooklyn	Halsey St (L)	Brooklyn		L	L	GREY		
+172	317.0000000000	Halsey St		Broadway	Halsey St (J) Brooklyn	Halsey St (J)	Brooklyn		J	J	BROWN		
+173	311.0000000000	Hewes St		Broadway	"Hewes St (J,M) Brooklyn"	"Hewes St (J,M)"	Brooklyn		"J,M"	"J,M"	BROWN		
+174	219.0000000000	High St		Cadman Plaza East	"High St (A,C) Brooklyn"	"High St (A,C)"	Brooklyn		"A,C"	"A,C"	BLUE	express	
+175	75.0000000000	Hoyt St		Fulton Mall	"Hoyt St (2,3) Brooklyn"	"Hoyt St (2,3)"	Brooklyn		"2,3"	"2,3"	RED		
+176	221.0000000000	Hoyt St	Schermerhorn St	Schermerhorn St	"Hoyt St / Schermerhorn St (A,C,G) Brooklyn"	"Hoyt St / Schermerhorn St (A,C,G)"	Brooklyn		"A,C,G"	"A,C,G"	BLUE-LIME	express	
+177	220.0000000000	Jay St	Borough Hall	Fulton Mall	"Jay St / Borough Hall (A,C,F) Brooklyn"	"Jay St / Borough Hall (A,C,F)"	Brooklyn		"A,C,F"	"A,C,F"	BLUE-ORANGE	express	
+178	450.0000000000	Jefferson St		Wyckoff Ave	Jefferson St (L) Brooklyn	Jefferson St (L)	Brooklyn		L	L	GREY		
+179	88.0000000000	Junius St		Livonia Ave	Junius St (3) Brooklyn	Junius St (3)	Brooklyn		"3"	"3"	RED-GREEN		
+180	394.0000000000	Kings Hwy		E 16th St	"Kings Hwy (B,Q) Brooklyn"	"Kings Hwy (B,Q)"	Brooklyn		"B,Q"	"B,Q"	ORANGE-YELLOW	express	
+181	433.0000000000	Kings Hwy		W 7th St	Kings Hwy (N) Brooklyn	Kings Hwy (N)	Brooklyn		N	N	YELLOW		
+182	353.0000000000	Kings Hwy		McDonald Ave	Kings Hwy (F) Brooklyn	Kings Hwy (F)	Brooklyn		F	F	ORANGE		
+183	83.0000000000	Kingston Ave		Eastern Pky	Kingston Ave (3) Brooklyn	Kingston Ave (3)	Brooklyn		"3"	"3"	RED-GREEN		
+184	226.0000000000	Kingston-Throop Aves		Fulton St	Kingston-Throop Aves (C) Brooklyn	Kingston-Throop Aves (C)	Brooklyn		C	C	BLUE		
+185	333.0000000000	Knickerbocker Ave		Myrtle Ave	Knickerbocker Ave (M) Brooklyn	Knickerbocker Ave (M)	Brooklyn		M	M	BROWN		
+186	315.0000000000	Kosciusko St		Broadway	Kosciusko St (J) Brooklyn	Kosciusko St (J)	Brooklyn		J	J	BROWN		
+187	222.0000000000	Lafayette Ave		Fulton St	Lafayette Ave (C) Brooklyn	Lafayette Ave (C)	Brooklyn		C	C	BLUE		
+188	380.0000000000	Lawrence St	MetroTech	Willoughby St	"Lawrence St / MetroTech (M,R) Brooklyn"	"Lawrence St / MetroTech (M,R)"	Brooklyn		"M,R"	"M,R"	BROWN-YELLOW		
+189	231.0000000000	Liberty Ave		Pennsylvania Ave	Liberty Ave (C) Brooklyn	Liberty Ave (C)	Brooklyn		C	C	BLUE		
+190	459.0000000000	Livonia Ave		Van Sinderen Ave	Livonia Ave (L) Brooklyn	Livonia Ave (L)	Brooklyn		L	L	GREY		
+191	445.0000000000	Lorimer St	Metropolitan Ave	Metropolitan Ave	Lorimer St / Metropolitan Ave (L) Brooklyn	Lorimer St / Metropolitan Ave (L)	Brooklyn		L	"G,L"	GREY		
+192	312.0000000000	Lorimer St		Broadway	"Lorimer St (J,M) Brooklyn"	"Lorimer St (J,M)"	Brooklyn		"J,M"	"J,M"	BROWN		
+193	310.0000000000	Marcy Ave		Broadway	"Marcy Ave (J,M,Z) Brooklyn"	"Marcy Ave (J,M,Z)"	Brooklyn		"J,M,Z"	"J,M,Z"	BROWN	express	
+194	286.0000000000	Metropolitan Ave	Lorimer St	Grand St	Metropolitan Ave / Lorimer St (G) Brooklyn	Metropolitan Ave / Lorimer St (G)	Brooklyn		G	"G,L"	LIME		
+195	448.0000000000	Montrose Ave		Bushwick Ave	Montrose Ave (L) Brooklyn	Montrose Ave (L)	Brooklyn		L	L	GREY		
+196	449.0000000000	Morgan Ave		Harrison Pl	Morgan Ave (L) Brooklyn	Morgan Ave (L)	Brooklyn		L	L	GREY		
+197	452.0000000000	Myrtle Ave	Wyckoff Ave	Wyckoff Ave	Myrtle Ave / Wyckoff Ave (L) Brooklyn	Myrtle Ave / Wyckoff Ave (L)	Brooklyn		L	"L,M"	GREY		
+198	314.0000000000	Myrtle Ave		Broadway	"Myrtle Ave (J,M,Z) Brooklyn"	"Myrtle Ave (J,M,Z)"	Brooklyn		"J,M,Z"	"J,M,Z"	BROWN	express	
+199	283.0000000000	Myrtle Ave	Willoughby Ave	Marcy Ave	Myrtle Ave / Willoughby Ave (G) Brooklyn	Myrtle Ave / Willoughby Ave (G)	Brooklyn		G	G	LIME		
+200	287.0000000000	Nassau Ave		Manhattan Ave	Nassau Ave (G) Brooklyn	Nassau Ave (G)	Brooklyn		G	G	LIME		
+201	396.0000000000	Neck Rd		E 16th St	Neck Rd (Q) Brooklyn	Neck Rd (Q)	Brooklyn		Q	Q	YELLOW		
+202	356.0000000000	Neptune Ave			Neptune Ave (F) Brooklyn	Neptune Ave (F)	Brooklyn		F	F	ORANGE		
+203	76.0000000000	Nevins St		Flatbush Ave	"Nevins St (2,3,4,5) Brooklyn"	"Nevins St (2,3,4,5)"	Brooklyn		"2,3,4,5"	"2,3,4,5"	GREEN-RED	express	
+204	460.0000000000	New Lots Ave		Van Sinderen Ave	New Lots Ave (L) Brooklyn	New Lots Ave (L)	Brooklyn		L	L	GREY		
+205	91.0000000000	New Lots Ave		Livonia Ave	New Lots Ave (3) Brooklyn	New Lots Ave (3)	Brooklyn		"3"	"3"	RED-GREEN		
+206	429.0000000000	New Utrecht Ave	62nd St	62nd St	New Utrecht Ave / 62nd St (N) Brooklyn	New Utrecht Ave / 62nd St (N)	Brooklyn		N	"D,M,N"	YELLOW		
+207	390.0000000000	Newkirk Ave		E 16th St	"Newkirk Ave (B,Q) Brooklyn"	"Newkirk Ave (B,Q)"	Brooklyn		"B,Q"	"B,Q"	ORANGE-YELLOW	express	
+208	97.0000000000	Newkirk Ave		Nostrand Ave	"Newkirk Ave (2,5) Brooklyn"	"Newkirk Ave (2,5)"	Brooklyn		"2,5"	"2,5"	RED-GREEN		
+209	323.0000000000	Norwood Ave		Fulton St	"Norwood Ave (J,Z) Brooklyn"	"Norwood Ave (J,Z)"	Brooklyn		"J,Z"	"J,Z"	BROWN		
+210	225.0000000000	Nostrand Ave		Fulton St	"Nostrand Ave (A,C) Brooklyn"	"Nostrand Ave (A,C)"	Brooklyn		"A,C"	"A,C"	BLUE	express	
+211	82.0000000000	Nostrand Ave		Eastern Pky	Nostrand Ave (3) Brooklyn	Nostrand Ave (3)	Brooklyn		"3"	"3"	RED-GREEN		
+212	399.0000000000	Ocean Pkwy			Ocean Pkwy (Q) Brooklyn	Ocean Pkwy (Q)	Brooklyn		Q	Q	YELLOW		
+213	402.0000000000	Pacific St	Brooklyn Academy of Music	4th Ave	"Pacific St / Brooklyn Academy of Music (D,M,N,R) Brooklyn"	"Pacific St / Brooklyn Academy of Music (D,M,N,R)"	Brooklyn		"D,M,N,R"	"B,D,M,N,Q,R,2,3,4,5"	BROWN-ORANGE-YELLOW	express	
+214	437.0000000000	Park Pl		Classon Ave	Park Pl (S) Brooklyn	Park Pl (S)	Brooklyn		S	S	GREY		
+215	386.0000000000	Parkside Ave		Ocean Ave	Parkside Ave (Q) Brooklyn	Parkside Ave (Q)	Brooklyn		Q	Q	YELLOW		
+216	89.0000000000	Pennsylvania Ave		Livonia Ave	Pennsylvania Ave (3) Brooklyn	Pennsylvania Ave (3)	Brooklyn		"3"	"3"	RED-GREEN		
+217	92.0000000000	President St		Nostrand Ave	"President St (2,5) Brooklyn"	"President St (2,5)"	Brooklyn		"2,5"	"2,5"	RED-GREEN		
+218	405.0000000000	Prospect Ave		4th Ave	"Prospect Ave (M,R) Brooklyn"	"Prospect Ave (M,R)"	Brooklyn		"M,R"	"M,R"	BROWN-YELLOW		
+219	385.0000000000	Prospect Park		Empire Blvd	"Prospect Park (B,Q,S) Brooklyn"	"Prospect Park (B,Q,S)"	Brooklyn		"B,Q,S"	"B,Q,S"	MULTI	express	
+220	228.0000000000	Ralph Ave		Fulton St	Ralph Ave (C) Brooklyn	Ralph Ave (C)	Brooklyn		C	C	BLUE		
+221	229.0000000000	Rockaway Ave		Fulton St	Rockaway Ave (C) Brooklyn	Rockaway Ave (C)	Brooklyn		C	C	BLUE		
+222	87.0000000000	Rockaway Ave		Livonia Ave	Rockaway Ave (3) Brooklyn	Rockaway Ave (3)	Brooklyn		"3"	"3"	RED-GREEN		
+223	462.0000000000	Rockaway Pky	Canarsie	Glenwood Rd	Rockaway Pky / Canarsie (L) Brooklyn	Rockaway Pky / Canarsie (L)	Brooklyn		L	L	GREY		
+224	86.0000000000	Saratoga Ave		Livonia Ave	Saratoga Ave (3) Brooklyn	Saratoga Ave (3)	Brooklyn		"3"	"3"	RED-GREEN		
+225	397.0000000000	Sheepshead Bay		E 16th St	"Sheepshead Bay (B,Q) Brooklyn"	"Sheepshead Bay (B,Q)"	Brooklyn		"B,Q"	"B,Q"	ORANGE-YELLOW	express	
+226	233.0000000000	Shepherd Ave		Pitkin Ave	Shepherd Ave (C) Brooklyn	Shepherd Ave (C)	Brooklyn		C	C	BLUE		
+227	341.0000000000	Smith St	9th St	9th St	"Smith St / 9th St (F,G) Brooklyn"	"Smith St / 9th St (F,G)"	Brooklyn		"F,G"	"F,G"	ORANGE-LIME		
+228	93.0000000000	Sterling St		Nostrand Ave	"Sterling St (2,5) Brooklyn"	"Sterling St (2,5)"	Brooklyn		"2,5"	"2,5"	RED-GREEN		
+229	458.0000000000	Sutter Ave		Van Sinderen Ave	Sutter Ave (L) Brooklyn	Sutter Ave (L)	Brooklyn		L	L	GREY		
+230	85.0000000000	Sutter Ave	Rutland Rd	E 98th St	Sutter Ave / Rutland Rd (3) Brooklyn	Sutter Ave / Rutland Rd (3)	Brooklyn		"3"	"3"	RED-GREEN		
+231	403.0000000000	Union St		4th Ave	"Union St (M,R) Brooklyn"	"Union St (M,R)"	Brooklyn		"M,R"	"M,R"	BROWN-YELLOW		
+232	227.0000000000	Utica Ave		Fulton St	"Utica Ave (A,C) Brooklyn"	"Utica Ave (A,C)"	Brooklyn		"A,C"	"A,C"	BLUE	express	
+233	84.0000000000	Utica Ave	Crown Heights	Eastern Pky	"Utica Ave / Crown Heights (3,4) Brooklyn"	"Utica Ave / Crown Heights (3,4)"	Brooklyn		"3,4"	"3,4"	GREEN-RED	express	
+234	232.0000000000	Van Siclen Ave		Pitkin Ave	Van Siclen Ave (C) Brooklyn	Van Siclen Ave (C)	Brooklyn		C	C	BLUE		
+235	321.0000000000	Van Siclen Ave		Fulton St	"Van Siclen Ave (J,Z) Brooklyn"	"Van Siclen Ave (J,Z)"	Brooklyn		"J,Z"	"J,Z"	BROWN		
+236	90.0000000000	Van Siclen Ave		Livonia Ave	Van Siclen Ave (3) Brooklyn	Van Siclen Ave (3)	Brooklyn		"3"	"3"	RED-GREEN		
+237	400.0000000000	W 8th St	NY Aquarium	Surf Ave	"W 8th St / NY Aquarium (F,Q) Brooklyn"	"W 8th St / NY Aquarium (F,Q)"	Brooklyn		"F,Q"	"F,Q"	ORANGE-YELLOW		
+238	454.0000000000	Wilson Ave		Moffat St	Wilson Ave (L) Brooklyn	Wilson Ave (L)	Brooklyn		L	L	GREY		
+239	94.0000000000	Winthrop St		Nostrand Ave	"Winthrop St (2,5) Brooklyn"	"Winthrop St (2,5)"	Brooklyn		"2,5"	"2,5"	RED-GREEN		
+240	334.0000000000	Wyckoff Ave	Myrtle Ave	Myrtle Ave	Wyckoff Ave / Myrtle Ave (M) Brooklyn	Wyckoff Ave / Myrtle Ave (M)	Brooklyn		M	"L,M"	BROWN		
+241	303.0000000000	York St		Jay St	York St (F) Brooklyn	York St (F)	Brooklyn		F	F	ORANGE		
+242	121.0000000000	103rd St		Lexington Ave	103rd St (6) Manhattan	103rd St (6)	Manhattan		"6"	"6"	GREEN		
+243	192.0000000000	103rd St		Central Park West	"103rd St (A,B,C) Manhattan"	"103rd St (A,B,C)"	Manhattan		"A,B,C"	"A,B,C"	BLUE-ORANGE		
+244	22.0000000000	103rd St		Broadway	103rd St (1) Manhattan	103rd St (1)	Manhattan		"1"	"1"	RED		
+245	122.0000000000	110th St		Lexington Ave	110th St (6) Manhattan	110th St (6)	Manhattan		"6"	"6"	GREEN		
+246	193.0000000000	110th St	Cathedral Pky	Central Park West	"110th St / Cathedral Pky (B,C) Manhattan"	"110th St / Cathedral Pky (B,C)"	Manhattan		"B,C"	"B,C"	BLUE-ORANGE		
+247	39.0000000000	110th St	Central Park North	Lenox Ave	"110th St / Central Park North (2,3) Manhattan"	"110th St / Central Park North (2,3)"	Manhattan		"2,3"	"2,3"	RED	express	
+248	40.0000000000	116th St		Lenox Ave	"116th St (2,3) Manhattan"	"116th St (2,3)"	Manhattan		"2,3"	"2,3"	RED	express	
+249	123.0000000000	116th St		Lexington Ave	116th St (6) Manhattan	116th St (6)	Manhattan		"6"	"6"	GREEN		
+250	194.0000000000	116th St		8th Ave	"116th St (B,C) Manhattan"	"116th St (B,C)"	Manhattan		"B,C"	"B,C"	BLUE-ORANGE		
+251	24.0000000000	116th St	Columbia University	Broadway	116th St / Columbia University (1) Manhattan	116th St / Columbia University (1)	Manhattan		"1"	"1"	RED		
+252	41.0000000000	125th St		Lenox Ave	"125th St (2,3) Manhattan"	"125th St (2,3)"	Manhattan		"2,3"	"2,3"	RED	express	
+253	124.0000000000	125th St		Lexington Ave	"125th St (4,5,6) Manhattan"	"125th St (4,5,6)"	Manhattan		"4,5,6"	"4,5,6"	GREEN	express	
+254	195.0000000000	125th St		St. Nicholas Ave	"125th St (A,B,C,D) Manhattan"	"125th St (A,B,C,D)"	Manhattan		"A,B,C,D"	"A,B,C,D"	BLUE-ORANGE	express	
+255	25.0000000000	125th St		Broadway	125th St (1) Manhattan	125th St (1)	Manhattan		"1"	"1"	RED		
+256	196.0000000000	135th St		St. Nicholas Ave	"135th St (B,C) Manhattan"	"135th St (B,C)"	Manhattan		"B,C"	"B,C"	BLUE-ORANGE		
+257	42.0000000000	135th St		Lenox Ave	"135th St (2,3) Manhattan"	"135th St (2,3)"	Manhattan		"2,3"	"2,3"	RED	express	
+258	26.0000000000	137th St	City College	Broadway	137th St / City College (1) Manhattan	137th St / City College (1)	Manhattan		"1"	"1"	RED		
+259	43.0000000000	145th St		Lenox Ave	145th St (3) Manhattan	145th St (3)	Manhattan		"3"	"3"	RED	express	
+260	197.0000000000	145th St		St. Nicholas Ave	"145th St (A,B,C,D) Manhattan"	"145th St (A,B,C,D)"	Manhattan		"A,B,C,D"	"A,B,C,D"	BLUE-ORANGE	express	
+261	27.0000000000	145th St		Broadway	145th St (1) Manhattan	145th St (1)	Manhattan		"1"	"1"	RED		
+262	44.0000000000	148th St	Lenox Term	7th Ave	148th St / Lenox Term (3) Manhattan	148th St / Lenox Term (3)	Manhattan		"3"	"3"	RED	express	
+263	110.0000000000	14th St	Union Sq	4th Ave	"14th St / Union Sq (4,5,6) Manhattan"	"14th St / Union Sq (4,5,6)"	Manhattan		"4,5,6"	"L,N,Q,R,W,4,5,6"	GREEN	express	
+264	294.0000000000	6th Ave	14th St	14th St	"6th Ave / 14th St (F,L,V) Manhattan"	"6th Ave / 14th St (F,L,V)"	Manhattan		"F,L,V"	"F,L,V,1,2,3,9"	GREY-ORANGE		
+265	9.0000000000	14th St		7th Ave	"14th St (1,2,3) Manhattan"	"14th St (1,2,3)"	Manhattan		"1,2,3"	"F,L,V,1,2,3"	RED	express	
+266	206.0000000000	155th St		8th Ave	"155th St (B,D) Manhattan"	"155th St (B,D)"	Manhattan		"B,D"	"B,D"	ORANGE		
+267	198.0000000000	155th St		St. Nicholas Ave	155th St (C) Manhattan	155th St (C)	Manhattan		C	C	BLUE		
+268	28.0000000000	157th St		Broadway	157th St (1) Manhattan	157th St (1)	Manhattan		"1"	"1"	RED		
+269	199.0000000000	163rd St	Amsterdam Ave	St. Nicholas Ave	163rd St / Amsterdam Ave (C) Manhattan	163rd St / Amsterdam Ave (C)	Manhattan		C	C	BLUE		
+270	200.0000000000	168th St	Washington Hts	Broadway	"168th St / Washington Hts (A,C) Manhattan"	"168th St / Washington Hts (A,C)"	Manhattan		"A,C"	"A,C,1,9"	BLUE	express	
+271	29.0000000000	168th St	Washington Hts	Broadway	168th St / Washington Hts (1) Manhattan	168th St / Washington Hts (1)	Manhattan		"1"	"A,C,1"	RED		
+272	201.0000000000	175th St		Ft Washington Ave	175th St (A) Manhattan	175th St (A)	Manhattan		A	A	BLUE	express	
+273	202.0000000000	181st St		Ft Washington Ave	181st St (A) Manhattan	181st St (A)	Manhattan		A	A	BLUE	express	
+274	30.0000000000	181st St		St. Nicholas Ave	181st St (1) Manhattan	181st St (1)	Manhattan		"1"	"1"	RED		
+275	10.0000000000	18th St		7th Ave	18th St (1) Manhattan	18th St (1)	Manhattan		"1"	"1"	RED		
+276	203.0000000000	190th St		Ft Washington Ave	190th St (A) Manhattan	190th St (A)	Manhattan		A	A	BLUE	express	
+277	31.0000000000	191st St		St. Nicholas Ave	191st St (1) Manhattan	191st St (1)	Manhattan		"1"	"1"	RED		
+278	443.0000000000	1st Ave		14 St	1st Ave (L) Manhattan	1st Ave (L)	Manhattan		L	L	GREY		
+279	205.0000000000	207th St	Inwood	Broadway	207th St / Inwood (A) Manhattan	207th St / Inwood (A)	Manhattan		A	A	BLUE	express	
+280	33.0000000000	207th St		10th Ave	207th St (1) Manhattan	207th St (1)	Manhattan		"1"	"1"	RED		
+281	34.0000000000	215th St		10th Ave	215th St (1) Manhattan	215th St (1)	Manhattan		"1"	"1"	RED		
+282	35.0000000000	225th St	Marble Hill	Broadway	225th St / Marble Hill (1) Manhattan	225th St / Marble Hill (1)	Manhattan		"1"	"1"	RED		
+283	111.0000000000	23rd St		Park Ave	23rd St (6) Manhattan	23rd St (6)	Manhattan		"6"	"6"	GREEN		
+284	183.0000000000	23rd St		8th Ave	"23rd St (C,E) Manhattan"	"23rd St (C,E)"	Manhattan		"C,E"	"C,E"	BLUE		
+285	295.0000000000	23rd St		6th Ave	"23rd St (F,V) Manhattan"	"23rd St (F,V)"	Manhattan		"F,V"	"F,V"	ORANGE		
+286	370.0000000000	23rd St		Broadway	"23rd St (N,R,W) Manhattan"	"23rd St (N,R,W)"	Manhattan		"N,R,W"	"N,R,W"	YELLOW		
+287	11.0000000000	23rd St		7th Ave	23rd St (1) Manhattan	23rd St (1)	Manhattan		"1"	"1"	RED		
+288	112.0000000000	28th St		Park Ave	28th St (6) Manhattan	28th St (6)	Manhattan		"6"	"6"	GREEN		
+289	369.0000000000	28th St		Broadway	"28th St (N,R,W) Manhattan"	"28th St (N,R,W)"	Manhattan		"N,R,W"	"N,R,W"	YELLOW		
+290	12.0000000000	28th St		7th Ave	28th St (1) Manhattan	28th St (1)	Manhattan		"1"	"1"	RED		
+291	300.0000000000	2nd Ave	Lower East Side	Houston St	"2nd Ave / Lower East Side (F,V) Manhattan"	"2nd Ave / Lower East Side (F,V)"	Manhattan		"F,V"	"F,V"	ORANGE		
+292	113.0000000000	33rd St		Park Ave	33rd St (6) Manhattan	33rd St (6)	Manhattan		"6"	"6"	GREEN		
+293	184.0000000000	34th St	Penn Station	8th Ave	"34th St / Penn Station (A,C,E) Manhattan"	"34th St / Penn Station (A,C,E)"	Manhattan		"A,C,E"	"A,C,E"	BLUE	express	
+294	368.0000000000	34th St	Herald Sq	Ave of Americas	"34th St / Herald Sq (B,D,F,N,Q,R,V,W) Manhattan"	"34th St / Herald Sq (B,D,F,N,Q,R,V,W)"	Manhattan		"B,D,F,N,Q,R,V,W"	"B,D,F,N,Q,R,V,W"	ORANGE-YELLOW	express	
+295	13.0000000000	34th St	Penn Station	7th Ave	"34th St (1,2,3) Manhattan"	"34th St / Penn Station (1,2,3)"	Manhattan		"1,2,3"	"1,2,3"	RED	express	
+296	442.0000000000	3rd Ave		14 St	3rd Ave (L) Manhattan	3rd Ave (L)	Manhattan		L	L	GREY		
+297	297.0000000000	42nd St	Bryant Park	Ave of Americas	"42nd St / Bryant Park (B,D,F,V) Manhattan"	"42nd St / Bryant Park (B,D,F,V)"	Manhattan		"B,D,F,V"	"B,D,F,V,7"	ORANGE	express	
+298	185.0000000000	42nd St	Port Authority Bus Term.	8th Ave	"42nd St / Port Authority Bus Term. (A,C,E) Manhattan"	"42nd St / Port Authority Bus Term. (A,C,E)"	Manhattan		"A,C,E"	"A,C,E,N,Q,R,S,W,1,2,3,7"	BLUE	express	
+299	298.0000000000	47th-50th Sts	Rockefeller Center	Ave of Americas	"47th-50th Sts / Rockefeller Center (B,D,F,V) Manhattan"	"47th-50th Sts / Rockefeller Center (B,D,F,V)"	Manhattan		"B,D,F,V"	"B,D,F,V"	ORANGE	express	
+300	366.0000000000	49th St		7th Ave	"49th St (N,R,W) Manhattan"	"49th St (N,R,W)"	Manhattan		"N,R,W"	"N,R,W"	YELLOW		
+301	186.0000000000	50th St		8th Ave	"50th St (C,E) Manhattan"	"50th St (C,E)"	Manhattan		"C,E"	"C,E"	BLUE		
+302	15.0000000000	50th St		Broadway	50th St (1) Manhattan	50th St (1)	Manhattan		"1"	"1"	RED		
+303	115.0000000000	51st St		Lexington Ave	51st St (6) Manhattan	51st St (6)	Manhattan		"6"	"E,V,6"	GREEN		
+304	365.0000000000	57th St		7th Ave	"57th St (N,Q,R,W) Manhattan"	"57th St (N,Q,R,W)"	Manhattan		"N,Q,R,W"	"N,R,Q,W"	YELLOW	express	
+305	299.0000000000	57th St		6th Ave	57th St (F) Manhattan	57th St (F)	Manhattan		F	F	ORANGE		
+306	116.0000000000	59th St	Lexington Ave	Lexington Ave	"59th St / Lexington Ave (4,5,6) Manhattan"	"59th St / Lexington Ave (4,5,6)"	Manhattan		"4,5,6"	"F,N,R,W,4,5,6"	GREEN	express	
+307	187.0000000000	59th St	Columbus Circle	8th Ave	"59th St / Columbus Circle (A,B,C,D) Manhattan"	"59th St / Columbus Circle (A,B,C,D)"	Manhattan		"A,B,C,D"	"A,B,C,D,1"	BLUE-ORANGE	express	
+308	16.0000000000	59th St	Columbus Circle	Broadway	59th St / Columbus Circle (1) Manhattan	59th St / Columbus Circle (1)	Manhattan		"1"	"A,B,C,D,1"	RED	express	
+309	256.0000000000	5th Ave	53rd St	53rd St	"5th Ave / 53rd St (E,V) Manhattan"	"5th Ave / 53rd St (E,V)"	Manhattan		"E,V"	"E,V"	BLUE-ORANGE	express	
+310	364.0000000000	5th Ave		59th St	"5th Ave (N,R,W) Manhattan"	"5th Ave (N,R,W)"	Manhattan		"N,R,W"	"N,R,W"	YELLOW		
+311	158.0000000000	5th Ave		42nd St	5th Ave (7) Manhattan	5th Ave (7)	Manhattan		"7"	"B,D,F,V,7"	PURPLE	express	
+312	17.0000000000	66th St	Lincoln Center	Broadway	66th St / Lincoln Center (1) Manhattan	66th St / Lincoln Center (1)	Manhattan		"1"	"1"	RED		
+313	117.0000000000	68th St	Hunter College	Lexington Ave	68th St / Hunter College (6) Manhattan	68th St / Hunter College (6)	Manhattan		"6"	"6"	GREEN		
+314	188.0000000000	72nd St		Central Park West	"72nd St (B,C) Manhattan"	"72nd St (B,C)"	Manhattan		"B,C"	"B,C"	BLUE-ORANGE		
+315	18.0000000000	72nd St		Broadway	"72nd St (1,2,3) Manhattan"	"72nd St (1,2,3)"	Manhattan		"1,2,3"	"1,2,3"	RED	express	
+316	118.0000000000	77th St		Lexington Ave	77th St (6) Manhattan	77th St (6)	Manhattan		"6"	"6"	GREEN		
+317	19.0000000000	79th St		Broadway	79th St (1) Manhattan	79th St (1)	Manhattan		"1"	"1"	RED		
+318	255.0000000000	7th Ave		53rd St	"7th Ave (B,D,E) Manhattan"	"7th Ave (B,D,E)"	Manhattan		"B,D,E"	"B,D,E"	BLUE-ORANGE	express	
+319	189.0000000000	81st St	Museum of Natural Hist.	Central Park West	"81st St / Museum of Natural Hist. (B,C) Manhattan"	"81st St / Museum of Natural Hist. (B,C)"	Manhattan		"B,C"	"B,C"	BLUE-ORANGE		
+320	119.0000000000	86th St		Lexington Ave	"86th St (4,5,6) Manhattan"	"86th St (4,5,6)"	Manhattan		"4,5,6"	"4,5,6"	GREEN	express	
+321	190.0000000000	86th St		Central Park West	"86th St (B,C) Manhattan"	"86th St (B,C)"	Manhattan		"B,C"	"B,C"	BLUE-ORANGE		
+322	20.0000000000	86th St		Broadway	86th St (1) Manhattan	86th St (1)	Manhattan		"1"	"1"	RED		
+323	439.0000000000	8th Ave	14th St	14 St	"8th Ave / 14th St (A,C,E,L) Manhattan"	"8th Ave / 14th St (A,C,E,L)"	Manhattan		"A,C,E,L"	"A,C,E,L"	BLUE-GREY	express	
+324	372.0000000000	8th St	New York University	Broadway	"8th St / New York University (N,R,W) Manhattan"	"8th St / New York University (N,R,W)"	Manhattan		"N,R,W"	"N,R,W"	YELLOW		
+325	120.0000000000	96th St		Lexington Ave	96th St (6) Manhattan	96th St (6)	Manhattan		"6"	"6"	GREEN		
+326	191.0000000000	96th St		Central Park West	"96th St (B,C) Manhattan"	"96th St (B,C)"	Manhattan		"B,C"	"B,C"	BLUE-ORANGE		
+327	21.0000000000	96th St		Broadway	"96th St (1,2,3) Manhattan"	"96th St (1,2,3)"	Manhattan		"1,2,3"	"1,2,3"	RED	express	
+328	109.0000000000	Astor Pl		4th Ave	Astor Pl (6) Manhattan	Astor Pl (6)	Manhattan		"6"	"6"	GREEN		
+329	108.0000000000	Bleecker St	Broadway-Lafayette St	Lafayette Ave	Bleecker St / Broadway-Lafayette St (6) Manhattan	Bleecker St / Broadway-Lafayette St (6)	Manhattan		"6"	"B,D,F,V,6"	GREEN		
+330	308.0000000000	Bowery		Delancey St	"Bowery (J,M,Z) Manhattan"	"Bowery (J,M,Z)"	Manhattan		"J,M,Z"	"J,M,Z"	BROWN		
+331	102.0000000000	Bowling Green		Broadway	"Bowling Green (4,5) Manhattan"	"Bowling Green (4,5)"	Manhattan		"4,5"	"4,5"	GREEN	express	
+332	304.0000000000	Broad St		Wall St	"Broad St (J,M,Z) Manhattan"	"Broad St (J,M,Z)"	Manhattan		"J,M,Z"	"J,M,Z"	BROWN	express	
+333	292.0000000000	Broadway-Lafayette St	Bleecker St	Houston St	"Broadway-Lafayette St / Bleecker St (B,D,F,V) Manhattan"	"Broadway-Lafayette St / Bleecker St (B,D,F,V)"	Manhattan		"B,D,F,V"	"B,D,F,V,4,5,6"	ORANGE	express	
+334	218.0000000000	Broadway-Nassau St	Fulton St	Fulton St	"Broadway-Nassau St / Fulton St (A,C) Manhattan"	"Broadway-Nassau St / Fulton St (A,C)"	Manhattan		"A,C"	"A,C,J,M,Z,2,3,4,5"	BLUE	express	
+335	105.0000000000	Brooklyn Bridge	City Hall	Centre St	"Brooklyn Bridge / City Hall (4,5,6) Manhattan"	"Brooklyn Bridge / City Hall (4,5,6)"	Manhattan		"4,5,6"	"J,M,Z,4,5,6"	GREEN	express	
+336	106.0000000000	Canal St		Lafayette Ave	Canal St (6) Manhattan	Canal St (6)	Manhattan		"6"	"J,M,N,Q,R,W,Z,6"	GREEN		
+337	179.0000000000	Canal St		6th Ave	"Canal St (A,C,E) Manhattan"	"Canal St (A,C,E)"	Manhattan		"A,C,E"	"A,C,E"	BLUE	express	
+338	307.0000000000	Canal St		Centre St	"Canal St (J,M,Z) Manhattan"	"Canal St (J,M,Z)"	Manhattan		"J,M,Z"	"J,M,N,Q,R,W,Z,6"	BROWN	express	
+339	374.0000000000	Canal St		Broadway	"Canal St (N,Q,R,W) Manhattan"	"Canal St (N,Q,R,W)"	Manhattan		"N,Q,R,W"	"J,M,N,Q,R,W,Z,6"	YELLOW	express	
+340	6.0000000000	Canal St		Varick St	Canal St (1) Manhattan	Canal St (1)	Manhattan		"1"	"1"	RED		
+341	23.0000000000	Cathedral Pky	110th St	Broadway	Cathedral Pky / 110th St (1) Manhattan	Cathedral Pky / 110th St (1)	Manhattan		"1"	"1"	RED		
+342	217.0000000000	Chambers St	Park Pl	Church St	"Chambers St / Park Pl (A,C) Manhattan"	"Chambers St / Park Pl (A,C)"	Manhattan		"A,C"	"A,C,E,2,3"	BLUE	express	
+343	306.0000000000	Chambers St	Brooklyn Bridge	Centre St	"Chambers St / Brooklyn Bridge (J,M,Z) Manhattan"	"Chambers St / Brooklyn Bridge (J,M,Z)"	Manhattan		"J,M,Z"	"J,M,Z,4,5,6"	BROWN	express	
+344	4.0000000000	Chambers St		West Broadway	"Chambers St (1,2,3) Manhattan"	"Chambers St (1,2,3)"	Manhattan		"1,2,3"	"1,2,3"	RED	express	
+345	8.0000000000	Christopher St	Sheridan Sq	7th Ave	Christopher St / Sheridan Sq (1) Manhattan	Christopher St / Sheridan Sq (1)	Manhattan		"1"	"1"	RED		
+346	375.0000000000	City Hall		Broadway	"City Hall (R,W) Manhattan"	"City Hall (R,W)"	Manhattan		"R,W"	"R,W"	YELLOW		
+347	301.0000000000	Essex St	Delancey St	Delancey St	"Essex St / Delancey St (F,J,M,Z) Manhattan"	"Essex St / Delancey St (F,J,M,Z)"	Manhattan		"F,J,M,Z"	"F,J,M,Z"	BROWN-ORANGE	express	
+348	204.0000000000	Dyckman St		Broadway	Dyckman St (A) Manhattan	Dyckman St (A)	Manhattan		A	A	BLUE	express	
+349	32.0000000000	Dyckman St		Nagle Ave	Dyckman St (1) Manhattan	Dyckman St (1)	Manhattan		"1"	"1"	RED		
+350	302.0000000000	East Broadway		Canal St	East Broadway (F) Manhattan	East Broadway (F)	Manhattan		F	F	ORANGE		
+351	5.0000000000	Franklin St		Varick St	Franklin St (1) Manhattan	Franklin St (1)	Manhattan		"1"	"1"	RED		
+352	104.0000000000	Fulton St	Broadway-Nassau St	Broadway	"Fulton St / Broadway-Nassau St (4,5) Manhattan"	"Fulton St / Broadway-Nassau St (4,5)"	Manhattan		"4,5"	"A,C,J,M,Z,2,3,4,5"	GREEN	express	
+353	305.0000000000	Fulton St	Broadway-Nassau St	Nassau St	"Fulton St / Broadway-Nassau St (J,M,Z) Manhattan"	"Fulton St / Broadway-Nassau St (J,M,Z)"	Manhattan		"J,M,Z"	"A,C,J,M,Z,2,3,4,5"	BROWN	express	
+354	71.0000000000	Fulton St	Broadway-Nassau St	William St	"Fulton St / Broadway-Nassau St (2,3) Manhattan"	"Fulton St / Broadway-Nassau St (2,3)"	Manhattan		"2,3"	"A,C,J,M,Z,2,3,4,5"	RED	express	
+355	114.0000000000	Grand Central	42nd St	Lexington Ave	"Grand Central / 42nd St (4,5,6) Manhattan"	"Grand Central / 42nd St (4,5,6)"	Manhattan		"4,5,6"	"S,4,5,6,7"	GREEN	express	
+356	159.0000000000	Grand Central		42nd St	Grand Central (7) Manhattan	Grand Central (7)	Manhattan		"7"	"S,4,5,6,7"	PURPLE	express	
+357	100.0000000000	Grand Central	42nd St	Park Ave	Grand Central / 42nd St (S) Manhattan	Grand Central / 42nd St (S)	Manhattan		S	"S,4,5,6,7"	GREY	express	
+358	291.0000000000	Grand St		Chrystie St	"Grand St (B,D) Manhattan"	"Grand St (B,D)"	Manhattan		"B,D"	"B,D"	ORANGE	express	
+359	7.0000000000	Houston St		Varick St	Houston St (1) Manhattan	Houston St (1)	Manhattan		"1"	"1"	RED		
+360	363.0000000000	Lexington Ave	59th St	59th St	"Lexington Ave / 59th St (N,R,W) Manhattan"	"Lexington Ave / 59th St (N,R,W)"	Manhattan		"N,R,W"	"F,N,R,W,4,5,6"	YELLOW		
+361	441.0000000000	Broadway Jct	Eastern Pky	Eastern Pky	Broadway Jct / Eastern Pky (L) Brooklyn	Broadway Jct / Eastern Pky (L)	Brooklyn		L	"A,C,J,L,Z"	GREY	express	
+362	466.0000000000	Lexington Ave	63rd St	63rd St	Lexington Ave / 63rd St (F) Manhattan	Lexington Ave / 63rd St (F)	Manhattan		F	"F,N,R,W,4,5,6"	ORANGE		
+363	257.0000000000	Lexington Ave	53rd St	53rd St	"Lexington Ave / 53rd St (E,V) Manhattan"	"Lexington Ave / 53rd St (E,V)"	Manhattan		"E,V"	"E,V,4,6"	BLUE-ORANGE	express	
+364	70.0000000000	Park Pl	Chambers St	Broadway	"Park Pl / Chambers St (2,3) Manhattan"	"Park Pl / Chambers St (2,3)"	Manhattan		"2,3"	"A,C,E,2,3"	RED	express	
+365	373.0000000000	Prince St		Broadway	"Prince St (N,R,W) Manhattan"	"Prince St (N,R,W)"	Manhattan		"N,R,W"	"N,R,W"	YELLOW		
+366	377.0000000000	Rector St		Trinity Pl	"Rector St (R,W) Manhattan"	"Rector St (R,W)"	Manhattan		"R,W"	"R,W"	YELLOW		
+367	467.0000000000	Roosevelt Island			Roosevelt Island (F) Manhattan	Roosevelt Island (F)	Manhattan		F	F	ORANGE		
+368	180.0000000000	Spring St		6th Ave	"Spring St (C,E) Manhattan"	"Spring St (C,E)"	Manhattan		"C,E"	"C,E"	BLUE		
+369	107.0000000000	Spring St		Lafayette Ave	Spring St (6) Manhattan	Spring St (6)	Manhattan		"6"	"6"	GREEN		
+370	157.0000000000	Times Sq	42nd St	7th Ave/Broadway	"Times Sq / 42nd St (N,Q,R,S,W,7) Manhattan"	"Times Sq / 42nd St (N,Q,R,S,W,7)"	Manhattan		"N,Q,R,S,W,7"	"A,C,E,N,Q,R,S,W,1,2,3,7"	GREY-PURPLE-YELLOW	express	
+371	371.0000000000	Union Sq	14th St	14 St	"Union Sq / 14th St (L,N,Q,R,W) Manhattan"	"Union Sq / 14th St (L,N,Q,R,W)"	Manhattan		"L,N,Q,R,W"	"L,N,Q,R,W,4,5,6"	GREY-YELLOW	express	
+372	293.0000000000	W 4th St		6th Ave	"W 4th St (A,C,E) Manhattan"	"W 4th St (A,C,E)"	Manhattan		"A,C,E"	"A,B,C,D,E,F,V"	BLUE	express	
+373	103.0000000000	Wall St		Broadway	"Wall St (4,5) Manhattan"	"Wall St (4,5)"	Manhattan		"4,5"	"4,5"	GREEN	express	
+374	72.0000000000	Wall St		William St	"Wall St (2,3) Manhattan"	"Wall St (2,3)"	Manhattan		"2,3"	"2,3"	RED	express	
+375	378.0000000000	Whitehall St	South Ferry	Water St	"Whitehall St / South Ferry (R,W) Manhattan"	"Whitehall St / South Ferry (R,W)"	Manhattan		"R,W"	"R,W"	YELLOW		
+376	174.0000000000	103rd St	Corona Plaza	Roosevelt Ave	103rd St / Corona Plaza (7) Queens	103rd St / Corona Plaza (7)	Queens		"7"	"7"	PURPLE		
+377	239.0000000000	104th St		Liberty Ave	104th St (A) Queens	104th St (A)	Queens		A	A	BLUE		
+378	329.0000000000	104th St		Jamaica Ave	"104th St (J,Z) Queens"	"104th St (J,Z)"	Queens		"J,Z"	"J,Z"	BROWN		
+379	240.0000000000	111th St		Liberty Ave	111th St (A) Queens	111th St (A)	Queens		A	A	BLUE		
+380	330.0000000000	111th St		Jamaica Ave	111th St (J) Queens	111th St (J)	Queens		J	J	BROWN		
+381	175.0000000000	111th St		Roosevelt Ave	111th St (7) Queens	111th St (7)	Queens		"7"	"7"	PURPLE		
+382	331.0000000000	121st St		Jamaica Ave	"121st St (J,Z) Queens"	"121st St (J,Z)"	Queens		"J,Z"	"J,Z"	BROWN		
+383	491.0000000000	Cortlandt St		West Broadway	Cortlandt St (1) Manhattan	Cortlandt St (1)	Manhattan		"1"	"1"	CLOSED		yes
+384	277.0000000000	169th St		Hillside Ave	169th St (F) Queens	169th St (F)	Queens		F	F	ORANGE		
+385	278.0000000000	179th St	Jamaica	Hillside Ave	179th St / Jamaica (F) Queens	179th St / Jamaica (F)	Queens		F	F	ORANGE		
+386	468.0000000000	21st St		41st Ave	21st St (F) Queens	21st St (F)	Queens		F	F	ORANGE		
+387	289.0000000000	21st St		Jackson Ave	21st St (G) Queens	21st St (G)	Queens		G	G	LIME		
+388	258.0000000000	23rd St	Ely Ave	44th Dr	"23rd St / Ely Ave (E,V) Queens"	"23rd St / Ely Ave (E,V)"	Queens		"E,V"	"E,G,V,7"	BLUE-ORANGE	express	
+389	360.0000000000	30th Ave		31st St	"30th Ave (N,W) Queens"	"30th Ave (N,W)"	Queens		"N,W"	"N,W"	YELLOW		
+390	164.0000000000	33rd St		Queens Blvd	33rd St (7) Queens	33rd St (7)	Queens		"7"	"7"	PURPLE		
+391	358.0000000000	36th Ave		31st St	"36th Ave (N,W) Queens"	"36th Ave (N,W)"	Queens		"N,W"	"N,W"	YELLOW		
+392	260.0000000000	36th St		Northern Blvd	"36th St (G,R,V) Queens"	"36th St (G,R,V)"	Queens		"G,R,V"	"G,R,V"	MULTI		
+393	357.0000000000	39th Ave		31st St	"39th Ave (N,W) Queens"	"39th Ave (N,W)"	Queens		"N,W"	"N,W"	YELLOW		
+394	165.0000000000	40th St		Queens Blvd	40th St (7) Queens	40th St (7)	Queens		"7"	"7"	PURPLE		
+395	162.0000000000	45th Rd	Court House Sq		45th Rd / Court House Sq (7) Queens	45th Rd / Court House Sq (7)	Queens		"7"	"E,G,V,7"	PURPLE		
+396	262.0000000000	46th St		Broadway	"46th St (G,R,V) Queens"	"46th St (G,R,V)"	Queens		"G,R,V"	"G,R,V"	MULTI		
+397	166.0000000000	46th St		Queens Blvd	46th St (7) Queens	46th St (7)	Queens		"7"	"7"	PURPLE		
+398	167.0000000000	52nd St		Roosevelt Ave	52nd St (7) Queens	52nd St (7)	Queens		"7"	"7"	PURPLE		
+399	168.0000000000	61st St	Woodside	Roosevelt Ave	61st St / Woodside (7) Queens	61st St / Woodside (7)	Queens		"7"	"7"	PURPLE	express	
+400	269.0000000000	63rd Dr	Rego Park	Queens Blvd	"63rd Dr / Rego Park (G,R,V) Queens"	"63rd Dr / Rego Park (G,R,V)"	Queens		"G,R,V"	"G,R,V"	MULTI		
+401	264.0000000000	65th St		Broadway	"65th St (G,R,V) Queens"	"65th St (G,R,V)"	Queens		"G,R,V"	"G,R,V"	MULTI		
+402	270.0000000000	67th Ave		Queens Blvd	"67th Ave (G,R,V) Queens"	"67th Ave (G,R,V)"	Queens		"G,R,V"	"G,R,V"	MULTI		
+403	169.0000000000	69th St		Roosevelt Ave	69th St (7) Queens	69th St (7)	Queens		"7"	"7"	PURPLE		
+404	271.0000000000	71st Ave	Forest Hills	Queens Blvd	"71st Ave / Forest Hills (E,F,G,R,V) Queens"	"71st Ave / Forest Hills (E,F,G,R,V)"	Queens		"E,F,G,R,V"	"E,F,G,R,V"	MULTI	express	
+405	170.0000000000	74th St-Broadway	Jackson Hts-Roosevelt Ave	Roosevelt Ave	74th St-Broadway (7) Queens	74th St-Broadway (7)	Queens		"7"	"E,F,G,R,V,7"	PURPLE		
+406	272.0000000000	75th Ave		Queens Blvd	"75th Ave (E,F) Queens"	"75th Ave (E,F)"	Queens		"E,F"	"E,F"	BLUE-ORANGE		
+407	326.0000000000	75th St	Eldert Ln	Jamaica Ave	"75th St / Eldert Ln (J,Z) Queens"	"75th St / Eldert Ln (J,Z)"	Queens		"J,Z"	"J,Z"	BROWN		
+408	236.0000000000	80th St		Liberty Ave	80th St (A) Queens	80th St (A)	Queens		A	A	BLUE		
+409	171.0000000000	82nd St	Jackson Hts	Roosevelt Ave	82nd St / Jackson Hts (7) Queens	82nd St / Jackson Hts (7)	Queens		"7"	"7"	PURPLE		
+410	327.0000000000	85th St	Forest Pky	Jamaica Ave	85th St / Forest Pky (J) Queens	85th St / Forest Pky (J)	Queens		J	J	BROWN		
+411	237.0000000000	88th St		Liberty Ave	88th St (A) Queens	88th St (A)	Queens		A	A	BLUE		
+412	172.0000000000	90th St	Elmhurst Ave	Roosevelt Ave	90th St / Elmhurst Ave (7) Queens	90th St / Elmhurst Ave (7)	Queens		"7"	"7"	PURPLE		
+413	242.0000000000	Aqueduct	North Conduit Ave	North Conduit Ave	Aqueduct / North Conduit Ave (A) Queens	Aqueduct / North Conduit Ave (A)	Queens		A	A	BLUE		
+414	361.0000000000	Astoria Blvd		31st St	"Astoria Blvd (N,W) Queens"	"Astoria Blvd (N,W)"	Queens		"N,W"	"N,W"	YELLOW		
+415	253.0000000000	Beach 105th St		Rockaway Freeway	"Beach 105th St (A,S) Queens"	"Beach 105th St (A,S)"	Queens		"A,S"	"A,S"	BLUE		
+416	249.0000000000	Beach 25th St		Rockaway Freeway	Beach 25th St (A) Queens	Beach 25th St (A)	Queens		A	A	BLUE		
+417	248.0000000000	Beach 36th St		Rockaway Freeway	Beach 36th St (A) Queens	Beach 36th St (A)	Queens		A	A	BLUE		
+418	247.0000000000	Beach 44th St		Rockaway Freeway	Beach 44th St (A) Queens	Beach 44th St (A)	Queens		A	A	BLUE		
+419	246.0000000000	Beach 60th St		Rockaway Freeway	Beach 60th St (A) Queens	Beach 60th St (A)	Queens		A	A	BLUE		
+420	245.0000000000	Beach 67th St		Rockaway Freeway	Beach 67th St (A) Queens	Beach 67th St (A)	Queens		A	A	BLUE		
+421	251.0000000000	Beach 90th St		Rockaway Freeway	"Beach 90th St (A,S) Queens"	"Beach 90th St (A,S)"	Queens		"A,S"	"A,S"	BLUE		
+422	252.0000000000	Beach 98th St		Rockaway Freeway	"Beach 98th St (A,S) Queens"	"Beach 98th St (A,S)"	Queens		"A,S"	"A,S"	BLUE		
+423	244.0000000000	Broad Channel			"Broad Channel (A,S) Queens"	"Broad Channel (A,S)"	Queens		"A,S"	"A,S"	BLUE		
+424	359.0000000000	Broadway		31st St	"Broadway (N,W) Queens"	"Broadway (N,W)"	Queens		"N,W"	"N,W"	YELLOW		
+425	290.0000000000	Court Sq	Long Island City	45th Rd	Court Sq / Long Island City (G) Queens	Court Sq / Long Island City (G)	Queens		G	"E,G,V,7"	LIME		
+426	362.0000000000	Astoria-Ditmars Blvd		31st St	"Astoria-Ditmars Blvd (N,W) Queens"	"Astoria-Ditmars Blvd (N,W)"	Queens		"N,W"	"N,W"	YELLOW		
+427	266.0000000000	Elmhurst Ave		Broadway	"Elmhurst Ave (G,R,V) Queens"	"Elmhurst Ave (G,R,V)"	Queens		"G,R,V"	"G,R,V"	MULTI		
+428	250.0000000000	Far Rockaway	Mott Ave	Mott Ave	Far Rockaway / Mott Ave (A) Queens	Far Rockaway / Mott Ave (A)	Queens		A	A	BLUE		
+429	336.0000000000	Forest Ave		67th St	Forest Ave (M) Queens	Forest Ave (M)	Queens		M	M	BROWN		
+430	337.0000000000	Fresh Pond Rd		67th St	Fresh Pond Rd (M) Queens	Fresh Pond Rd (M)	Queens		M	M	BROWN		
+431	267.0000000000	Grand Ave	Newtown	Queens Blvd	"Grand Ave / Newtown (G,R,V) Queens"	"Grand Ave / Newtown (G,R,V)"	Queens		"G,R,V"	"G,R,V"	MULTI		
+432	243.0000000000	Howard Beach	JFK Airport	159th Ave	Howard Beach / JFK Airport (A) Queens	Howard Beach / JFK Airport (A)	Queens		A	A	BLUE		
+433	161.0000000000	Hunters Point Ave		49th Ave/21st St	Hunters Point Ave (7) Queens	Hunters Point Ave (7)	Queens		"7"	"7"	PURPLE		
+434	465.0000000000	Jamaica Center	Parsons/Archer	Archer Ave	"Jamaica Center / Parsons/Archer (E,J,Z) Queens"	"Jamaica Center / Parsons/Archer (E,J,Z)"	Queens		"E,J,Z"	"E,J,Z"	BLUE-BROWN	express	
+435	463.0000000000	Van Wyck	Jamaica	Queens Blvd	Van Wyck / Jamaica (E) Queens	Van Wyck / Jamaica (E)	Queens		E	E	BLUE	express	
+436	173.0000000000	Junction Blvd		Roosevelt Ave	Junction Blvd (7) Queens	Junction Blvd (7)	Queens		"7"	"7"	PURPLE	express	
+437	241.0000000000	Lefferts Blvd	Ozone Park	Liberty Ave	Lefferts Blvd / Ozone Park (A) Queens	Lefferts Blvd / Ozone Park (A)	Queens		A	A	BLUE		
+438	177.0000000000	Main St	Flushing	Roosevelt Ave	Main St / Flushing (7) Queens	Main St / Flushing (7)	Queens		"7"	"7"	PURPLE	express	
+439	338.0000000000	Metropolitan Ave	Middle Village	67th St	Metropolitan Ave / Middle Village (M) Queens	Metropolitan Ave / Middle Village (M)	Queens		M	M	BROWN		
+440	263.0000000000	Northern Blvd		Broadway	"Northern Blvd (G,R,V) Queens"	"Northern Blvd (G,R,V)"	Queens		"G,R,V"	"G,R,V"	MULTI		
+441	276.0000000000	Parsons Blvd		Hillside Ave	Parsons Blvd (F) Queens	Parsons Blvd (F)	Queens		F	F	ORANGE		
+442	259.0000000000	Queens Plz		Queens Blvd	"Queens Plz (E,G,R,V) Queens"	"Queens Plz (E,G,R,V)"	Queens		"E,G,R,V"	"E,G,R,V"	MULTI	express	
+443	163.0000000000	Queensboro Plz		Queensboro Bridge	"Queensboro Plz (N,W,7) Queens"	"Queensboro Plz (N,W,7)"	Queens		"N,W,7"	"N,W,7"	PURPLE-YELLOW	express	
+444	238.0000000000	Rockaway Blvd		Liberty Ave	Rockaway Blvd (A) Queens	Rockaway Blvd (A)	Queens		A	A	BLUE		
+445	254.0000000000	Rockaway Park	Beach 116 St	Beach 116 St	"Rockaway Park / Beach 116 St (A,S) Queens"	"Rockaway Park / Beach 116 St (A,S)"	Queens		"A,S"	"A,S"	BLUE		
+446	265.0000000000	Jackson Hts-Roosevelt Ave	74th St-Broadway	Broadway	"Jackson Hts-Roosevelt Ave (E,F,G,R,V) Queens"	"Jackson Hts-Roosevelt Ave (E,F,G,R,V)"	Queens		"E,F,G,R,V"	"E,F,G,R,V,7"	MULTI	express	
+447	335.0000000000	Seneca Ave		Palmetto St	Seneca Ave (M) Queens	Seneca Ave (M)	Queens		M	M	BROWN		
+448	261.0000000000	Steinway St		Broadway	"Steinway St (G,R,V) Queens"	"Steinway St (G,R,V)"	Queens		"G,R,V"	"G,R,V"	MULTI		
+449	464.0000000000	Sutphin Blvd	Archer Ave	Archer Ave	"Sutphin Blvd / Archer Ave (E,J,Z) Queens"	"Sutphin Blvd / Archer Ave (E,J,Z)"	Queens		"E,J,Z"	"E,J,Z"	BLUE-BROWN	express	
+450	275.0000000000	Sutphin Blvd		Hillside Ave	Sutphin Blvd (F) Queens	Sutphin Blvd (F)	Queens		F	F	ORANGE		
+451	273.0000000000	Union Tpke	Kew Gardens	Queens Blvd	"Union Tpke / Kew Gardens (E,F) Queens"	"Union Tpke / Kew Gardens (E,F)"	Queens		"E,F"	"E,F"	BLUE-ORANGE	express	
+452	274.0000000000	Van Wyck Blvd	Briarwood	Main St	"Van Wyck Blvd / Briarwood (E,F) Queens"	"Van Wyck Blvd / Briarwood (E,F)"	Queens		"E,F"	"E,F"	BLUE-ORANGE		
+453	160.0000000000	Vernon Blvd	Jackson Ave	Jackson Ave	Vernon Blvd / Jackson Ave (7) Queens	Vernon Blvd / Jackson Ave (7)	Queens		"7"	"7"	PURPLE		
+454	176.0000000000	Willets Point Blvd	Shea Stadium	Roosevelt Ave	Willets Point Blvd / Shea Stadium (7) Queens	Willets Point Blvd / Shea Stadium (7)	Queens		"7"	"7"	PURPLE	express	
+455	328.0000000000	Woodhaven Blvd		Jamaica Ave	"Woodhaven Blvd (J,Z) Queens"	"Woodhaven Blvd (J,Z)"	Queens		"J,Z"	"J,Z"	BROWN	express	
+456	268.0000000000	Woodhaven Blvd		Queens Blvd	"Woodhaven Blvd (G,R,V) Queens"	"Woodhaven Blvd (G,R,V)"	Queens		"G,R,V"	"G,R,V"	MULTI		
+457	483.0000000000	Annadale			"Annadale, Staten Island"	Annadale	Staten Island				SI-BLUE		
+458	489.0000000000	Atlantic			"Atlantic, Staten Island"	Atlantic	Staten Island				SI-BLUE		
+459	480.0000000000	Bay Terrace			"Bay Terrace, Staten Island"	Bay Terrace	Staten Island				SI-BLUE		
+460	472.0000000000	Clifton			"Clifton, Staten Island"	Clifton	Staten Island				SI-BLUE		
+461	475.0000000000	Dongan Hills			"Dongan Hills, Staten Island"	Dongan Hills	Staten Island				SI-BLUE		
+462	482.0000000000	Eltingville			"Eltingville, Staten Island"	Eltingville	Staten Island				SI-BLUE		
+463	477.0000000000	Grant City			"Grant City, Staten Island"	Grant City	Staten Island				SI-BLUE		
+464	473.0000000000	Grasmere			"Grasmere, Staten Island"	Grasmere	Staten Island				SI-BLUE		
+465	481.0000000000	Great Kills			"Great Kills, Staten Island"	Great Kills	Staten Island				SI-BLUE		
+466	484.0000000000	Huguenot			"Huguenot, Staten Island"	Huguenot	Staten Island				SI-BLUE		
+467	476.0000000000	Jefferson Av			"Jefferson Av, Staten Island"	Jefferson Av	Staten Island				SI-BLUE		
+468	488.0000000000	Nassau			"Nassau, Staten Island"	Nassau	Staten Island				SI-BLUE		
+469	478.0000000000	New Dorp			"New Dorp, Staten Island"	New Dorp	Staten Island				SI-BLUE		
+470	479.0000000000	Oakwood Heights			"Oakwood Heights, Staten Island"	Oakwood Heights	Staten Island				SI-BLUE		
+471	474.0000000000	Old Town			"Old Town, Staten Island"	Old Town	Staten Island				SI-BLUE		
+472	486.0000000000	Pleasant Plains			"Pleasant Plains, Staten Island"	Pleasant Plains	Staten Island				SI-BLUE		
+473	485.0000000000	Prince's Bay			"Prince's Bay, Staten Island"	Prince's Bay	Staten Island				SI-BLUE		
+474	487.0000000000	Richmond Valley			"Richmond Valley, Staten Island"	Richmond Valley	Staten Island				SI-BLUE		
+475	469.0000000000	St George			"St George, Staten Island"	St George	Staten Island				SI-BLUE		
+476	471.0000000000	Stapleton			"Stapleton, Staten Island"	Stapleton	Staten Island				SI-BLUE		
+477	470.0000000000	Tompkinsville			"Tompkinsville, Staten Island"	Tompkinsville	Staten Island				SI-BLUE		
+478	490.0000000000	Tottenville			"Tottenville, Staten Island"	Tottenville	Staten Island				SI-BLUE		
+479	401.0000000000	Coney Island	Stillwell Ave	Surf Ave	"Coney Island / Stillwell Ave (D,F,N,Q) Brooklyn"	"Coney Island / Stillwell Ave (D,F,N,Q)"	Brooklyn		"D,F,N,Q"	"D,F,N,Q"	ORANGE		
+480	492.0000000000	World Trade Center	Chambers St	Church St	World Trade Center / Chambers St (E) Manhattan	World Trade Center / Chambers St (E)	Manhattan		E	"A,C,E,2,3"	BLUE		
+481	99.0000000000	Times Sq	42nd St	7th Ave/Broadway	"Times Sq (1,2,3) Manhattan"	"Times Sq / 42nd St (1,2,3)"	Manhattan		"1,2,3"	"A,C,E,N,Q,R,S,W,1,2,3,7"	RED	express	
+482	904.0000000000	JFK Terminal 1			"JFK Terminal 1, Queens"	JFK Terminal 1	Queens				AIR-BLUE		
+483	905.0000000000	JFK Terminal 2-3			"JFK Terminal 2-3, Queens"	JFK Terminal 2-3	Queens				AIR-BLUE		
+484	906.0000000000	JFK Terminal 4			"JFK Terminal 4, Queens"	JFK Terminal 4	Queens				AIR-BLUE		
+485	907.0000000000	JFK Terminal 5-6			"JFK Terminal 5-6, Queens"	JFK Terminal 5-6	Queens				AIR-BLUE		
+486	908.0000000000	JFK Terminal 7			"JFK Terminal 7, Queens"	JFK Terminal 7	Queens				AIR-BLUE		
+487	909.0000000000	JFK Terminal 8			"JFK Terminal 8, Queens"	JFK Terminal 8	Queens				AIR-BLUE		
+488	903.0000000000	Federal Circle	Rental Car		"Federal Circle / Rental Car, Queens"	Federal Circle / Rental Car	Queens				AIR-BLUE		
+489	902.0000000000	Long Term Parking			"Long Term Parking, Queens"	Long Term Parking	Queens				AIR-BLUE		
+490	901.0000000000	Howard Beach		159th Ave	"Howard Beach, Queens"	Howard Beach	Queens			A	AIR-BLUE		
+491	900.0000000000	Jamaica	Sutphin Blvd	Sutphin Blvd	"Jamaica / Sutphin Blvd, Queens"	Jamaica / Sutphin Blvd	Queens			"E,J,Z"	AIR-BLUE		
