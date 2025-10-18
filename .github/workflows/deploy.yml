@@ -10,20 +10,44 @@ on:
       - main
 # This job installs dependencies, build the book, and pushes it to `gh-pages`
 jobs:
-  build-and-deploy-book:
+  build-and-deploy:
     runs-on: ${{ matrix.os }}
     strategy:
       matrix:
         os: [ubuntu-latest]
         python-version: ["3.12"]
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v4
 
       # Install dependencies
       - name: Set up Python ${{ matrix.python-version }}
-        uses: actions/setup-python@v6
+        uses: actions/setup-python@v5
         with:
           python-version: ${{ matrix.python-version }}
+
+      #####################################################
+      # Comment out this section if you don't need to generate the index.html file
+      - name: execute python script
+        run: |
+          python create_index.py
+      - name: file_check
+        run: ls -l -a
+      - name: commit files
+        continue-on-error: true
+        run: |
+          today=$(date +"%Y-%m-%d")
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git commit -m "Updated index.html ${today} UTC" -a
+          git pull origin master
+      - name: push changes
+        continue-on-error: true
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: master
+      #####################################################
 
       # Deploy the book's HTML to gh-pages branch
       - name: GitHub Pages action
